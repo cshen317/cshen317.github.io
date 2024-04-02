@@ -1,0 +1,67 @@
+# jemdoc: menu{MENU}{oldnews.html}, notime
+= Past News
+
+== 2023
+- May 2023: We are organizing [https://kdd-milets.github.io/milets2023/ the 9th SIGKDD Workshop on Mining and Learning from Time Series]. The CFP can be found [https://kdd-milets.github.io/milets2023/template/CFP_MILETS_KDD2023.pdf here]. Please consider submitting your work.
+- Apr. 2023: Two papers accepted to ICML 2023 and three papers accepted to ISIT 2023.
+- Apr. 2023: Ph.D. student [https://chengshuai-shi.github.io/ Chengshuai Shi] received the 2023 Charles L. Brown Department of Electrical and Computer Engineering’s Louis T Rader Graduate Research Award. Congratulations!
+- Jan. 2023: New Ph.D. student Zihan Chen (BS and MS, USTC) joined the group. Zihan is co-advised with [http://www.ece.virginia.edu/~jl6qk Prof. Jundong Li]. Welcome!
+
+== 2022
+- Nov. 2022: Ph.D. student [https://chengshuai-shi.github.io/ Chengshuai Shi] received the 2022-23 Endowed Graduate Fellowship from the Engineering School. Congratulations!
+- Oct. 2022: I will serve as an Area Chair for [https://aistats.org/aistats2023/ AISTATS 2023].
+- Sept. 2022: I am appointed as an Associate Editor of [https://www.comsoc.org/publications/journals/ieee-tmlcn IEEE Transactions on Machine Learning in Communications and Networking].
+- Sept. 2022: We welcome new Ph.D. student Wei Shen (BS, USTC) to join our group!
+- Aug. 2022: I was awarded a [https://cyberinitiative.org/research/proposals/central-va-innovation-and-commercialization.html CCI CVN Innovation and Commercialization Grant] to develop our FL platform.
+#, and two [https://www.nsf.gov/pubs/2022/nsf22095/nsf22095.jsp NSF SII-GRS] supplementary funds for workforce development in spectrum STEM.
+- Aug. 2022: Our research group participated in two outreach programs over the summer.
+-- We hosted the [https://www.starrhillpathways.com/ Starr Hill Pathways Program] students, who are rising 7th graders through high school in the Charlottesville area, for lab tours that was featured in [https://news.virginia.edu/content/uva-equity-center-provides-middle-school-students-college-experience UVA Today].
+-- [https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering UVA SEAS Center for Diversity in Engineering] organized the [https://engineering.virginia.edu/about/diversity-and-engagement/diversity-bridge-program Summer Bridge Program], in which we presented machine learning, communications, and security to the participating students. See [https://engineering.virginia.edu/news/2022/07/building-bridges story].
+- Aug. 2022: Ph.D. students returned to school from summer internships: Chengshuai Shi with Bloomberg, Kun Yang with Intel Labs, and Yujia Mu with Dropbox.
+- June 2022: I am appointed as an Associate Editor of [https://www.comsoc.org/publications/journals/ieee-tcom IEEE Transactions on Communications].
+- June 2022: Ph.D. student Yujia Mu received the Malathi Veeraraghavan Legacy Fellowship from the ECE Department, one of two recipients this year. Read the [https://engineering.virginia.edu/news/2022/08/yujia-mu-and-farjana-tonni-earn-malathi-veeraraghavan-fellowships news]. Congratulations!
+- June 2022: Ph.D. student [https://chengshuai-shi.github.io/ Chengshuai Shi] received the McVey Fellowship from the ECE Department. Congratulations!
+- May 2022: We have one paper accepted to ICML 2022.
+- May 2022: I received the 2022 ECE Department Faculty Research Award.
+- May 2022: Ph.D. student [https://xzxvictor.github.io/xizixiang/ Xizixiang Wei] received the ECE Department Ann Lee Brown Rookie of the Year Graduate Research Award. Congratulations!
+- Apr. 2022: I received the *NSF CAREER award* titled "[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2143559 CAREER: Towards a Communication Foundation for Distributed and Decentralized Machine Learning]". Here is the [https://engineering.virginia.edu/news/2022/06/career-award-designing-next-generation-wireless-communications-systems UVA news].
+- Apr. 2022: We are organizing [https://kdd-milets.github.io/milets2022/ the 8th SIGKDD Workshop on Mining and Learning from Time Series]. The CFP can be found [https://kdd-milets.github.io/milets2022/template/CFP_MILETS_2022.pdf here]. Please consider submitting your work.
+
+
+== 2021
+- Sept. 2021: [https://www.spectrumx.org/ SpectrumX] is selected as an [https://www.nsf.gov/news/news_summ.jsp?cntn_id=303454 NSF Spectrum Innovation Center].
+- July 2021: We are organizing the 2nd Workshop on Edge Computing and Communications (EdgeComm), in conjunction of [http://acm-ieee-sec.org/2021/ the Sixth ACM\/IEEE Symposium on Edge Computing (SEC 2021)]. The CFP is [EdgeComm_SEC_2021_Final.pdf here]. Please consider submitting your work.
+- June 2021: Ph.D. student [https://chengshuai-shi.github.io/ Chengshuai Shi] received the [https://www.bloomberg.com/company/stories/announcing-bloomberg-data-science-ph-d-fellowship-winners-2021-2022/ Bloomberg Data Science Ph.D. Fellowship for 2021-2022]. Congratulations!
+- June 2021: I received the *[https://icc2021.ieee-icc.org/program/best-paper-awards Best Paper Award]* at 2021 IEEE International Conference on Communications, for our work on wireless federated learning.
+- May 2021: We are organizing a special issue "[https://www.comsoc.org/publications/journals/ieee-tgcn/cfp/energy-efficient-distributed-ai-over-wireless-networks Energy Efficient Distributed AI over Wireless Networks]" on /[https://www.comsoc.org/publications/journals/ieee-tgcn IEEE Transactions on Green Communications and Networking (TGCN)]/. The submission deadline is Sept. 15, 2021. Please consider submitting your work.
+- Mar. 2021: *PI* of a UVa subcontract from VT-ARC, which develops "[https://vtnews.vt.edu/articles/2021/03/cci-smartwarehouse-contract.html 5G-enabled Smart Warehouse]" at the Marine Corps Logistics Base in Albany, Georgia.
+#The team won a \$13 million Department of Defense award to develop a "[https://vtnews.vt.edu/articles/2021/03/cci-smartwarehouse-contract.html 5G-enabled Smart Warehouse]" at the Marine Corps Logistics Base in Albany, Georgia.
+- Mar. 2021: *Co-PI* on a new project "SmallSat Cybersecurity and Resiliency" funded by CCI. UVa PI: Prof. Chris Goyne (MAE).
+- Mar. 2021: Received 2021 Air Force Research Lab Summer Faculty Fellowship at Air Force Research Lab (AFRL).
+- Feb. 2021: Patent granted by USPTO, "[https://patents.google.com/patent/US10924304B2/en Method and device for decoding a signal, and memory device]," 10,924,304.
+- Jan. 2021: Together with [http://kilyos.ee.bilkent.edu.tr/~cemtekin/ Cem Tekin] (Bilkent University) and [[https://www.vanderschaar-lab.com/ Mihaela van der Schaar] (University of Cambridge), I will deliver a tutorial "[https://icc2021.ieee-icc.org/program/tutorials Online Learning for Wireless Communications: Theory, Algorithms, and Applications]" at IEEE International Conference on Communications 2021.
+- Jan. 2021: Two projects are funded by [https://cyberinitiative.org/cci-news/2021/cci-funds-22-cybersecurity-grants.html Commonwealth Cyber Initiative (CCI) Cybersecurity Research Collaboration Grants]
+-- *PI*, "Open-source, Multi-band, Multi-dimensional Spectrum Access system with Interfaces to Wireless Testbeds and Network Simulation Software", Co-PI: Carl Dietrich (Virginia Tech).
+-- *Co-PI*, "Secure and Privacy Preserving 5G Network for Connected Vehicles", PI: Sachin Shetty (Old Dominion University); other co-PIs: Duminda Wijesekera and Kai Zeng (George Mason University); Tan Le (Old Dominion University); Jeffrey Reed (Virginia Tech).
+
+== 2020
+#- Oct. 2020: Our paper, /[https://ieeexplore.ieee.org/document/9277666/ Design and Analysis of Uplink and Downlink Communications for Federated Learning]/, is accepted to IEEE J. Select. Areas Commun., Series on Machine Learning for Communications and Networks.
+- Sept. 2020: I am serving on
+-- Senior Program Committee, the 30th International Joint Conference on Artificial Intelligence (IJCAI 2021),
+-- Program Committee/Reviewer, the 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021),
+-- Program Committee/Reviewer, the 35th AAAI Conference on Artificial Intelligence (AAAI 2021).
+#- Sept. 2020: Paper /[https://arxiv.org/abs/2006.07917/ Robust Recursive Partitioning for Heterogeneous Treatment Effects with Uncertainty Quantification]/ is accepted to the Thirty-fourth Conference on Neural Information Processing Systems (*NeurIPS 2020*).
+- Aug. 2020: Proposal entitled "[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2029978 Learning-Efficient Spectrum Access for No-Sensing Devices in Shared Spectrum]" is funded through the *NSF* Spectrum and Wireless Innovation enabled by Future Technologies (SWIFT) program.
+- Aug. 2020: Proposal entitled "[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2033671 Towards a Resource Rationing Framework for Wireless Federated Learning]" is funded through the *NSF* ECCS core program.
+- Aug. 2020: Four PhD students joining the group! Welcome [https://xzxvictor.github.io/xizixiang/ Xizixiang Wei] (MS, Fudan University), Li Fan (BS, USTC), Kun Yang (MS, Texas A\&M University), and Yujia Mu (MS, UVA).
+- July 2020: Our position paper /[https://doi.org/10.1080/19466315.2020.1797867 Machine learning for clinical trials in the era of COVID-19]/ has been accepted to [https://www.tandfonline.com/toc/usbr20/current Statistics in Biopharmaceutical Research]. It is a joint work with UCLA, University of Cambridge, AstraZeneca, and Novartis.
+#- June 2020: Preprint /[https://arxiv.org/abs/2006.07917/ Robust Recursive Partitioning for Heterogeneous Treatment Effects with Uncertainty Quantification]/ is uploaded to arXiv.
+#- June 2020: I was recognized as one of five "Best Editors for 2019" by IEEE Wireless Communications Letters.
+- June 2020: Our paper, /[http://arxiv.org/abs/2006.05026/ Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints]/, has been accepted to the 37th International Conference on Machine Learning (*ICML 2020*). It is a joint work with Z. Wang (Penn), S. Villa (Cambridge), and M. van der Schaar (Cambridge \& UCLA).
+- May 2020: Proposal entitled "[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2002902 Dino-RL: A Domain Knowledge Enriched Reinforcement Learning Framework for Wireless Network Optimization]" is funded through the *NSF/Intel* Partnership on Machine Learning for Wireless Networking Systems (MLWiNS) program. See the [https://newsroom.intel.com/wp-content/uploads/sites/11/2020/06/MLWiNS-Fact-Sheet.pdf Intel], [https://engineering.virginia.edu/news/2020/06/cong-shen-earns-grant-autonomously-configure-5g-and-beyond-wireless-networks-using UVA Engineering School], and [https://www.eurekalert.org/pub_releases/2020-06/uovs-ust062520.php AAAS EurekAlert!] news announcements, respectively.
+- Feb. 2020: I am organizing a special session "Machine Learning for Advanced Wireless Communications" in 2020 Asilomar Conference on Signals, Systems, and Computers.
+- Feb. 2020: I have been appointed as the Wireless Communications Symposium Co-Chair of IEEE Global Communications Conference (Globecom 2021).
+- Jan. 2020: Three papers are accepted to the 23rd International Conference on Artificial Intelligence and Statistics (*AISTATS 2020*).
+-- /[http://proceedings.mlr.press/v108/lee20a.html Contextual Constrained Learning for Dose-Finding Clinical Trials]/, with H. Lee, J. Jordon, and M. van der Schaar.
+-- /[http://proceedings.mlr.press/v108/shi20a.html Decentralized Multi-player Multi-armed Bandits with No Collision Information]/, with C. Shi, W. Xiong, and J. Yang.
+-- /[http://proceedings.mlr.press/v108/wu20c.html Stochastic Linear Contextual Bandits with Diverse Contexts]/, with W. Wu and J. Yang.

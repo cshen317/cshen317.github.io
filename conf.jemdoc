@@ -1,0 +1,140 @@
+# jemdoc: menu{MENU}{conf.html}, notime
+= Conference Papers (Recent)
+
+[https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
+
+== 2023
+. Federated Linear Bandits with Finite Adversarial Actions\n
+L. Fan, R. Zhou, C. Tian, and C. Shen, /Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2023
+. MIMO Beamforming and Signal Modulation Design for Federated Learning Optimization\n
+N. Yang, S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Global Communications Conference (Globecom)/, Dec. 2023
+. Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets\n
+K. Yang, C. Shen, J. Yang, S. Yeh, and J. Sydir, /The 57th Asilomar Conference on Signals, Systems and Computers/, Oct. 2023. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://proceedings.mlr.press/v202/shi23h/shi23h.pdf Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources]\n
+C. Shi, W. Xiong, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2023.
+. [https://proceedings.mlr.press/v202/li23k/li23k.pdf Near-optimal Conservative Exploration in Reinforcement Learning under Episode-wise Constraints]\n
+D. Li, R. Huang, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2023.
+. [https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]\n
+C. Shi, W. Xiong, C. Shen, and J. Yang, /IEEE International Symposium on Information Theory (ISIT)/, June 2023.
+. [http://arxiv.org/abs/2305.03884 On High-Dimensional and Low-Rank Tensor Bandits]\n
+C. Shi, C. Shen, and N. D. Sidiropoulos, /IEEE International Symposium on Information Theory (ISIT)/, June 2023.
+. Exploiting Feature Heterogeneity for Improved Generalization in Federated Multi-Task Learning\n
+R. Liu, J. Yang, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, June 2023.
+. [https://openreview.net/pdf?id=UP_GHHPw7rP Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]\n
+W. Xiong, H. Zhong, C. Shi, C. Shen, L. Wang, and T. Zhang, /International Conference on Learning Representations (ICLR)/, May 2023
+. [https://arxiv.org/abs/2302.05599 Communication and Storage Efficient Federated Split Learning]\n
+Y. Mu and C. Shen, /IEEE International Conference on Communications (ICC)/, May 2023.
+. [https://arxiv.org/abs/2306.08280 FLORAS: Differentially Private Wireless Federated Learning Using Orthogonal Sequences]\n
+X. Wei, T. Wang, R. Huang, C. Shen, J. Yang, and H. V. Poor, /IEEE International Conference on Communications (ICC)/, May 2023.
+. [https://ieeexplore.ieee.org/document/10089695 Teaching Reinforcement Learning Agents via Reinforcement Learning]\n
+K. Yang, C. Shi, and C. Shen, /57th Annual Conference on Information Sciences and Systems (CISS)/, March 2023. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://ieeexplore.ieee.org/document/10089783 Federated Learning via Indirect Server-Client Communications]\n
+J. Bian, C. Shen, and J. Xu /57th Annual Conference on Information Sciences and Systems (CISS)/, March 2023. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+== 2022
+. [https://ieeexplore.ieee.org/document/10051992 Multi-Agent Reinforcement Learning for Wireless User Scheduling: Performance, Scalablility, and Generalization]\n
+K. Yang, D. Li, C. Shen, J. Yang, S. Yeh, and J. Sydir, /The 56th Asilomar Conference on Signals, Systems and Computers/, Oct. 2022. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://proceedings.mlr.press/v162/xiong22b.html A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]\n
+W. Xiong, H. Zhong, C. Shi, C. Shen, and T. Zhang, /The 39th International Conference on Machine Learning (ICML)/, July 2022. /(acceptance rate: 21.9\%)/
+. [https://ieeexplore.ieee.org/document/9834609 Optimizing Federated Averaging Over Fading Channels]\n
+Y. Mu, C. Shen, and Y. C. Eldar, /IEEE International Symposium on Information Theory (ISIT)/, June 2022.
+.  [https://ieeexplore.ieee.org/document/9834892 Cascading Bandits With Two-Level Feedback]\n
+D. Cheng, R. Huang, C. Shen, and J. Yang, /IEEE International Symposium on Information Theory (ISIT)/, June 2022.
+. [https://arxiv.org/abs/2202.06105 On Federated Learning with Energy Harvesting Clients]\n
+C. Shen, J. Yang, and J. Xu, /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, May 2022. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://arxiv.org/abs/2201.12490 Random Orthogonalization for Federated Learning in Massive MIMO Systems]\n
+X. Wei, C. Shen, J. Yang, and H. V. Poor, /IEEE International Conference on Communications (ICC)/, May 2022.
+. [https://arxiv.org/abs/2112.10377 Learning for Robust Combinatorial Optimization: Algorithm and Application]\n
+Z. Shao, J. Yang, C. Shen and S. Ren, /IEEE Conference on Computer Communications (INFOCOM)/, May 2022. /(acceptance rate: 19.9\%)/
+. [https://ieeexplore.ieee.org/abstract/document/9751161 On the Convergence of Hybrid Federated Learning with Server-Clients Collaborative Training]\n
+K. Yang an C. Shen, /56th Annual Conference on Information Sciences and Systems (CISS)/, March 2022. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+== 2021
+. [https://arxiv.org/abs/2110.14628 (Almost) Free Incentivized Exploration from Decentralized Learning Agents]\n
+C. Shi, H. Xu, W. Xiong, and C. Shen, /Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2021. /(acceptance rate: 26\%)/
+. [https://arxiv.org/abs/2110.14622 Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]\n
+C. Shi, W. Xiong, C. Shen, and J. Yang, /Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2021. /(acceptance rate: 26\%)/
+. [https://arxiv.org/abs/2110.14177 Federated Linear Contextual Bandits]\n
+R. Huang, W. Wu, J. Yang, and C. Shen, /Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2021. /(acceptance rate: 26\%)/
+. [https://ieeexplore.ieee.org/document/9685807 A Machine Learning Approach for Rate Prediction in Multicast File-stream Distribution Networks]\n
+Y. Mu, Y. Tan, M. Veeraraghavan, and C. Shen, /IEEE Global Communications Conference (GLOBECOM)/, Dec. 2021.
+. [https://ieeexplore.ieee.org/document/9517726 An Attackability Perspective on No-Sensing Adversarial Multi-player Multi-armed Bandits]\n
+C. Shi and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, July 2021.
+. [https://ieeexplore.ieee.org/document/9500833 Federated Learning over Noisy Channels]\n
+X. Wei and C. Shen, /IEEE International Conference on Communications (ICC)/, June 2021.
+. [https://ieeexplore.ieee.org/document/9500330 On Energy Efficient Uplink Multi-User MIMO with Shared LNA Control]\n
+C. Shen, P. Zhao, and X. Luo, /IEEE International Conference on Communications (ICC)/, June 2021.
+. [https://ieeexplore.ieee.org/document/9277666 Design and Analysis of Uplink and Downlink Communications for Federated Learning]\n
+S. Zheng, C. Shen, and X. Chen, /IEEE International Conference on Communications (ICC)/, June 2021. {{<font color=DarkOrange size=+0.5><b>}}(Best Paper Award){{</b></font>}}
+. [http://proceedings.mlr.press/v130/lee21c.html SDF-Bayes: Cautious Optimism in Safe Dose-Finding Clinical Trials with Drug Combinations and Heterogeneous Patient Groups]\n
+H. Lee, C. Shen, W. Zame, J. Lee, and M. van der Schaar, /The 24rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Apr. 2021. #/(acceptance rate: 29.8\%)/
+. [http://proceedings.mlr.press/v130/shi21c.html Federated Multi-armed Bandits with Personalization]\n
+C. Shi, C. Shen, and J. Yang, /The 24rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Apr. 2021. {{<font color=DarkOrange size=+0.5><b>}}(Oral Presentation, 48\/1527 = 3\%){{</b></font>}} {{<font color=orange>}}[https://github.com/ShenGroup/PF_MAB \[Code\]]{{</font>}}
+. [https://arxiv.org/abs/2101.12204 Federated Multi-Armed Bandits]\n
+C. Shi and C. Shen, /The 35th AAAI Conference on Artificial Intelligence (AAAI)/, Feb. 2021. {{<font color=orange>}}[https://github.com/ShenGroup/FMAB \[Code\]]{{</font>}} /(acceptance rate: 21.4\%)/
+== 2020
+. [https://arxiv.org/abs/2006.07917/ Robust Recursive Partitioning for Heterogeneous Treatment Effects with Uncertainty Quantification]\n
+H.-S. Lee, Y. Zhang, W. Zame, C. Shen, J.-W. Lee, and M. van der Schaar, /Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2020. /(acceptance rate: 20.1\%)/
+. [https://ieeexplore.ieee.org/document/9355741 Federated Learning with Heterogeneous Quantization]\n
+C. Shen and S. Chen, /ACM\/IEEE Symposium on Edge Computing - Workshop on Edge Computing and Communications (EdgeComm)/, Nov. 2020.
+. [https://ieeexplore.ieee.org/document/9443510 MIMO Receive Antenna Selection via Deep Learning and Greedy Adaptation]\n
+C. Shen, D. Li, and J. Yang, /The 54th Asilomar Conference on Signals, Systems and Computers/, Nov. 2020. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://ieeexplore.ieee.org/document/9443380 Thresholded Wirtinger Flow for Fast Millimeter Wave Beam Alignment]\n
+C. Gan, J. Yang, and C. Shen, /The 54th Asilomar Conference on Signals, Systems and Computers/, Nov. 2020. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [http://proceedings.mlr.press/v119/shen20d/shen20d.pdf Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints]\n
+C. Shen, Z. Wang, S. Villa, and M. van der Schaar, /The 37th International Conference on Machine Learning (ICML)/, July 2020. /(acceptance rate: 21.8\%)/
+. [https://ieeexplore.ieee.org/document/9174020 On Top-$k$ Selection from $m$-wise Partial Rankings via Borda Counting]\n
+W. Chen, R. Zhou, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, June 2020.
+. [https://ieeexplore.ieee.org/document/9162925 Deep Reinforcement Learning based Wireless Network Optimization: A Comparative Study]\n
+K. Yang, C. Shen, and T. Liu, /IEEE INFOCOM 2020 Workshop on Data Driven Intelligence for Networks/, July 2020.
+. [http://proceedings.mlr.press/v108/lee20a.html Contextual Constrained Learning for Dose-Finding Clinical Trials]\n
+H. Lee, C. Shen, J. Jordon, and M. van der Schaar, /The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Aug. 2020.
+. [http://proceedings.mlr.press/v108/shi20a.html Decentralized Multi-player Multi-armed Bandits with No Collision Information]\n
+C. Shi, W. Xiong, C. Shen, and J. Yang, /The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Aug. 2020.
+. [http://proceedings.mlr.press/v108/wu20c.html Stochastic Linear Contextual Bandits with Diverse Contexts]\n
+W. Wu, J. Yang, and C. Shen, /The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Aug. 2020.
+== 2019
+. [https://ieeexplore.ieee.org/document/9013742 Privacy-Aware Edge Computing Based on Adaptive DNN Partitioning]\n
+C. Shi, L. Chen, C. Shen, and J. Xu, /IEEE Global Communications Conference (GLOBECOM)/, Dec. 2019.
+. [https://ieeexplore.ieee.org/document/8918838 A Cascading Bandit Approach to Efficient Mobility Management in Ultra-Dense Networks]\n
+C. Wang, R. Zhou, J. Yang, C. Shen, /IEEE International Workshop on Machine Learning for Signal Processing/, Oct. 2019. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://ieeexplore.ieee.org/document/8855869 Power Control for Interference Management via Ensembling Deep Neural Networks]\n
+F. Liang, C. Shen, W. Yu, and F. Wu, /IEEE\/CIC International Conference on Communications in China (ICCC)/, Changchun, China, Aug. 2019. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://ieeexplore.ieee.org/document/8849646 Online Learning with Diverse User Preferences]\n
+C. Gan, J. Yang, R. Zhou, and C. Shen, /IEEE International Symposium on Information Theory/, Paris, France, July 2019.
+== 2018
+. [https://ieeexplore.ieee.org/document/8613513 Best Arm Identification for Both Stochastic and Adversarial Multi-armed Bandits]\n
+H. Zhang and C. Shen, /IEEE Information Theory Workshop (ITW)/, Guangzhou, China, Nov. 2018. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://ieeexplore.ieee.org/document/8646686/ Opportunistic Spectrum Access via Good Arm Identification]\n
+Z. Wang, Z. Ying, and C. Shen, /IEEE GlobalSIP/, Anaheim, California, USA, Nov. 2018.
+. [https://ieeexplore.ieee.org/document/8641148/ A Machine Learning Approach to User Association in Enterprise Small Cell Networks]\n
+J. Yang, C. Wang, X. Wang, and C. Shen, /IEEE\/CIC International Conference on Communications in China (ICCC)/, Beijing, China, Aug. 2018. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
+. [https://www.ijcai.org/proceedings/2018/0448.pdf Cost-aware Cascading Bandits]\n
+R. Zhou, C. Gan, J. Yang, and C. Shen, /Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (IJCAI-18)/, Pages 3228-3234, July 2018. /(acceptance rate: 20.5\%)/
+. [https://ieeexplore.ieee.org/document/8437633/ New Results On Multilevel Diversity Coding with Secure Regeneration]\n
+S. Shao, T. Liu, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, 2018.
+. [http://proceedings.mlr.press/v84/wang18b/wang18b.pdf Regional Multi-Armed Bandits]\n
+Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics (AISTATS)/, Playa Blanca, Lanzarote, Canary Islands, April 2018. #/(acceptance rate: 33.2\%)/
+. [https://ieeexplore.ieee.org/document/8403499 Small Cell Power Assignment with Unimodal Continuum-armed Bandit Learning]\n
+Z. Wang and C. Shen, /IEEE International Conference on Communications (ICC) 2018 Workshop on 5G-UDN/
+. [https://ieeexplore.ieee.org/document/8422612/ Designing Interdependent Networks Against Cascading Failures with Node Protections]\n
+K. Liu, C. Shen, S. Chattopadhyay, and H. Dai, /IEEE International Conference on Communications (ICC)/, 2018.
+. [https://ieeexplore.ieee.org/document/8624614/ A Non-Stationary Online Learning Approach to Mobility Management]\n
+Y. Zhou, C. Shen, X. Luo, and M. van der Schaar, /IEEE International Conference on Communications (ICC)/, 2018.
+. [https://ieeexplore.ieee.org/document/8422290/ Exploiting Noise Correlation for Channel Decoding with Convolutional Neural Networks]\n
+F. Liang, C. Shen, and F. Wu, /IEEE International Conference on Communications (ICC)/, 2018.
+. [https://ieeexplore.ieee.org/document/8422299/ Online Geographical Load Balancing for Energy-Harvesting Mobile Edge Computing]\n
+H. Wu, L, Chen, C. Shen, W. Wen, and J. Xu, /IEEE International Conference on Communications (ICC)/, 2018.
+. [https://ieeexplore.ieee.org/document/8462296 How to Interconnect for Massive MIMO Self-Calibration?]\n
+F. Yang, H. Zhu, C. Shen, L. Dai, and X. Luo, /IEEE ICASSP/, Calgary, Canada, April 2018.
+. [https://ieeexplore.ieee.org/document/8390324 Adaptive Resource Allocation for LTE\/WiFi Coexistence in the Unlicensed Spectrum]\n
+J. Dai and C. Shen, /IEEE International Conference on Computing, Networking and Communications (ICNC)/, March 2018.
+== 2017
+. [A Modified LBT Mechanism and Performance Enhancement for LTE-U\/WiFi Co-Existence]\n
+J. Dai and C. Shen, /IEEE\/CIC International Conference on Communications in China (ICCC)/, 2017.
+. [https://ieeexplore.ieee.org/document/7986351/ Aligning DL Paths for Scalable CSI Feedback in FDD Massive MIMO]\n
+X. Luo, P. Cai, X. Zhang, C. Shen, and H. Qian, /Proc. International Wireless Communications and Mobile Computing Conference (IWCMC)/, Valencia, Spain, June 2017.
+. [https://ieeexplore.ieee.org/document/7993807/ DL CSI Acquisition and Feedback in FDD Massive MIMO via Path Aligning]\n
+X. Luo, X. Zhang, P. Cai, C. Shen, D. Hu, and H. Qian, /The 9th International Conference on Ubiquitous and Future Networks/, July 2017. {{<font color=DarkOrange size=+0.5><b>}}(Excellent Paper Award){{</b></font>}}
+. [https://ieeexplore.ieee.org/document/8030134/ On the Tradeoff Region of Secure Exact-Repair Regenerating Codes]\n
+S. Shao, T. Liu, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, Germany, June 2017.
+. [https://ieeexplore.ieee.org/document/8023473/ On Scheduling Policies in the Presence of Heavy-Tailed Interference]\n
+H. Wu, C. Shen, and S. Chen, /Proc. Information Theory and Applications (ITA) Workshop/, La Jolla, CA, USA, Feb. 2017

@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{patents.html}, notime
+= US Patents
+
+== Granted
+- "Method and device for decoding a signal, and memory device," 10,924,304, Feb. 16, 2021
+- "Closed-loop downlink transmit power assignments in a small cell radio access network,"
+-- 10,292,108, May 14, 2019,
+-- 10,645,657, May 5, 2020.
+- "Topology discovery and management and SON orchestration,"
+-- 10,771,338, Sept. 8, 2020,
+-- 10,148,510, Dec. 4, 2018.
+- "Method for signal transmission to multiple user equipments utilizing reciprocity of wireless channel," 10,236,958
+- "Determining transmit power based on categorization of access terminals," 9,883,465
+- "Methods and apparatuses for communicating in television white space (TVWS) based on TVWS enablement signal," 9,609,520
+- "Closed-loop downlink transmit power assignments in a small cell radio access network," 9,516,600.
+- "Power control for a network of access points," 9,497,714.
+- "Methods and apparatus for network entity collision detection,"
+-- 9,497,654, Nov. 15, 2016,
+-- 9,462,499, Oct. 4, 2016.
+- "Methods for radio technology selection and power calibration in multi-rat small cells," 9,462,559.
+- "Methods and apparatus for power management in a wireless communication system," 9,451,480.
+- "Base station employing shared resources among antenna units," 9,451,466
+- "Selecting a communication channel based on a neighboring cell constraint," 9,369,900.
+- "Methods and apparatus for parameter selection and conflict resolution for multiple radio access technologies," 9,319,901.
+- "Access point transmit power control," 9,301,265.
+- "Methods and apparatuses for low-rate television white space (TVWS) enablement," 9,107,078.
+
+
+#== Filed
+#- "Method and device for decoding a signal, and memory device," PCT\/CN2017\/099257, filed on June 14, 2018; US Patent Pending, [https://patents.google.com/patent/US20190288878A1/en US20190288878A1].
