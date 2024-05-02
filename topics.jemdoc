@@ -4,6 +4,10 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
+. Verification of Machine Unlearning is Fragile\n
+B. Zhang, Z. Chen, C. Shen, and J. Li, /International Conference on Machine Learning (ICML)/, July 2024.
+. Federated Representation Learning in the Under-Parameterized Regime\n
+R. Liu, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2024.
 . [https://arxiv.org/abs/2311.00944 Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization]\n
 W. Shen, M. Huang, J. Zhang, and C. Shen, /International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2024.
 . [https://arxiv.org/abs/2312.15148 Personalized Federated Learning with Attention-based Client Selection]\n
