@@ -1,20 +1,7 @@
 # jemdoc: menu{MENU}{group.html}, notime
 = Research Group at UVa
 
-== Graduate Students
-
-~~~
-{}{img_left}{Chengshuai.jpg}{Picture of Chengshuai Shi}{114}{}{}
-[https://chengshuai-shi.github.io/ *Chengshuai Shi*]\n
-Ph.D. Student (Fall 2019 - current)\n
-#B.S., University of Science and Technology of China (USTC)
-
-{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
-Bloomberg Data Science Ph.D. Fellowship in 2021\n
-ECE Department McVey Fellowship in 2022\n
-Engineering School Endowed Graduate Fellowship in 2022\n
-ECE Department Louis T Rader Graduate Research Award in 2023\n
-~~~
+== Current Students
 
 ~~~
 {}{img_left}{Yujia2.jpg}{Picture of Yujia Mu}{114}{}{}
@@ -36,19 +23,6 @@ Ph.D. Student (Fall 2020 - current)\n
 ~~~
 
 ~~~
-{}{img_left}{Zixiang.jpg}{Picture of Zixiang}{114}{}{}
-[https://xzxvictor.github.io/xizixiang/ *Xizixiang Wei*]\n
-Ph.D. Student (Fall 2020 - current)\n
-#B.S., Tongji University\n
-#M.S., Fudan University
-
-{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
-Engineering School Endowed Graduate Fellowship in 2023\n
-ECE Department Ann Lee Brown Rookie of the Year Graduate Research Award in 2022\n
-ECE Department McVey Fellowship, 2022 - 2023\n
-~~~
-
-~~~
 {}{img_left}{Li.jpg}{Picture of Li Fan}{114}{}{}
 *Li Fan*\n
 Ph.D. Student (Fall 2020 - current)\n
@@ -64,13 +38,41 @@ Ph.D. Student (Fall 2022 - current)\n
 
 ~~~
 {}{img_left}{zihan.jpg}{Picture of Zihan Chen}{114}{}{}
-*Zihan Chen* (co-advised with [http://www.ece.virginia.edu/~jl6qk Prof. Jundong Li])\n
+[https://chen-1031.github.io/ *Zihan Chen*] (co-advised with [http://www.ece.virginia.edu/~jl6qk Prof. Jundong Li])\n
 Ph.D. Student (Spring 2023 - current)\n
 #B.S., University of Science and Technology of China (USTC)\n
 #M.S., University of Science and Technology of China (USTC)\n
 
 {{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
 ECE Department Ann Lee Brown Rookie of the Year Graduate Research Award in 2024\n
+~~~
+
+== Alumni
+
+~~~
+{}{img_left}{Chengshuai.jpg}{Picture of Chengshuai Shi}{114}{}{}
+[https://chengshuai-shi.github.io/ *Chengshuai Shi*]\n
+Ph.D. (Fall 2019 - Spring 2024)\n
+#B.S., University of Science and Technology of China (USTC)
+
+{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
+Bloomberg Data Science Ph.D. Fellowship in 2021\n
+ECE Department McVey Fellowship in 2022\n
+Engineering School Endowed Graduate Fellowship in 2022\n
+ECE Department Louis T Rader Graduate Research Award in 2023\n
+~~~
+
+~~~
+{}{img_left}{Zixiang.jpg}{Picture of Zixiang}{114}{}{}
+[https://xzxvictor.github.io/xizixiang/ *Xizixiang Wei*]\n
+Ph.D. (Fall 2020 - Spring 2024)\n
+#B.S., Tongji University\n
+#M.S., Fudan University
+
+{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
+Engineering School Endowed Graduate Fellowship in 2023\n
+ECE Department Ann Lee Brown Rookie of the Year Graduate Research Award in 2022\n
+ECE Department McVey Fellowship, 2022 - 2023\n
 ~~~
 
 == Visiting Students
