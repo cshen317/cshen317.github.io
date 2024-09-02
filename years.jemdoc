@@ -8,12 +8,12 @@
 S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Trans. Wireless Commun./, accepted for publication.
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
 S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
-. [https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
-C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, to appear.
+. [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
+C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, July 2024.
 . [https://www.science.org/stoken/author-tokens/ST-1855/full Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space]\n
 B. Bae, D. Lee, M. Park, Y. Mu, Y. Baek, I. Sim, C. Shen, and K. Lee, /Science Robotics/, vol. 9, no. 90, May 2024.
 . [https://ieeexplore.ieee.org/document/10546478 Accelerating Hybrid Federated Learning Convergence under Partial Participation]\n
-J. Bian, L. Wang, K. Yang, C. Shen, J. Xu, /IEEE Trans. on Signal Processing/, accepted for publication.
+J. Bian, L. Wang, K. Yang, C. Shen, J. Xu, /IEEE Trans. on Signal Processing/, vol. 72, pp. 3258-3271, June 2024.
 . [https://ieeexplore.ieee.org/document/10529190 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]\n
 K. Yang, C. Shi, C. Shen, J. Yang, S. Yeh, and J. Sydir, /IEEE Trans. Wireless Commun./, accepted for publication.
 . [https://ieeexplore.ieee.org/document/10215316 Random Orthogonalization for Federated Learning in Massive MIMO Systems]\n
@@ -22,15 +22,15 @@ X. Wei, C. Shen, J. Yang, and H. V. Poor, /IEEE Trans. Wireless Commun./, vol. 2
 G. Wang, S. Chen, L. Li, G. Wang, M. Pang, and C. Shen, /IEEE Internet Things J./, vol. 11, no. 2, pp. 3132--3143, Jan. 2024.
 . [http://arxiv.org/abs/2406.03730 FastGAS: Fast Graph-based Annotation Selection for In-Context Learning]\n
 Z. Chen, S. Wang, C. Shen, and J. Li, /ACL 2024 Findings/, Aug. 2024
-. Verification of Machine Unlearning is Fragile\n
+. [https://openreview.net/pdf?id=OkChMnjF6s Verification of Machine Unlearning is Fragile]\n
 B. Zhang, Z. Chen, C. Shen, and J. Li, /International Conference on Machine Learning (ICML)/, July 2024.
-. Federated Representation Learning in the Under-Parameterized Regime\n
+. [https://arxiv.org/abs/2406.04596 Federated Representation Learning in the Under-Parameterized Regime]\n
 R. Liu, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2024.
 . [https://arxiv.org/abs/2312.10547 Advancing RAN Slicing with Offline Reinforcement Learning]\n
 K. Yang, S. Yeh, M. Zhang, J. Sydir, J. Yang, and C. Shen, /IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)/, May 2024.
-. [https://arxiv.org/abs/2404.09392 An Autoencoder-Based Constellation Design for AirComp in Wireless Federated Learning]\n
+. [https://ieeexplore.ieee.org/document/10622489 An Autoencoder-Based Constellation Design for AirComp in Wireless Federated Learning]\n
 Y. Mu, X. Wei, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2024.
-. [https://arxiv.org/abs/2311.00944 Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization]\n
+. [https://proceedings.mlr.press/v238/shen24c/shen24c.pdf Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization]\n
 W. Shen, M. Huang, J. Zhang, and C. Shen, /International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2024.
 . [https://arxiv.org/abs/2312.15148 Personalized Federated Learning with Attention-based Client Selection]\n
 Z. Chen, J. Li, and C. Shen, /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, Apr. 2024. 
@@ -44,7 +44,7 @@ Z. Peng, B. Li, L. Li, S. Chen, G. Wang, H. Rao, and C. Shen, /IEEE Trans. Cogn.
 K. Yang, S. Chen, and C. Shen, /IEEE J. Select. Areas Commun./, vol. 41, no. 3, pp. 802-819, March 2023.
 . [https://arxiv.org/abs/2311.00973 Federated Linear Bandits with Finite Adversarial Actions]\n
 L. Fan, R. Zhou, C. Tian, and C. Shen, /Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2023.
-. MIMO Beamforming and Signal Modulation Design for Federated Learning Optimization\n
+. [https://ieeexplore.ieee.org/document/10436780 MIMO Beamforming and Signal Modulation Design for Federated Learning Optimization]\n
 N. Yang, S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Global Communications Conference (Globecom)/, Dec. 2023.
 . [https://arxiv.org/abs/2311.11423 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]\n
 K. Yang, C. Shen, J. Yang, S. Yeh, and J. Sydir, /The 57th Asilomar Conference on Signals, Systems and Computers/, Oct. 2023. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}

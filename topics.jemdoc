@@ -6,13 +6,13 @@
 == AI / ML
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
 S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
-. [https://arxiv.org/abs/2312.16341 Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
-C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, to appear.
+. [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
+C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, July 2024.
 . [https://arxiv.org/abs/2406.03730 FastGAS: Fast Graph-based Annotation Selection for In-Context Learning]\n
 Z. Chen, S. Wang, C. Shen, and J. Li, /ACL 2024 Findings/, Aug. 2024
-. Verification of Machine Unlearning is Fragile\n
+. [https://openreview.net/pdf?id=OkChMnjF6s Verification of Machine Unlearning is Fragile]\n
 B. Zhang, Z. Chen, C. Shen, and J. Li, /International Conference on Machine Learning (ICML)/, July 2024.
-. Federated Representation Learning in the Under-Parameterized Regime\n
+. [https://arxiv.org/abs/2406.04596 Federated Representation Learning in the Under-Parameterized Regime]\n
 R. Liu, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2024.
 . [https://proceedings.mlr.press/v238/shen24c.html Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization]\n
 W. Shen, M. Huang, J. Zhang, and C. Shen, /International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2024.
@@ -79,7 +79,7 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 K. Yang, S. Yeh, M. Zhang, J. Sydir, J. Yang, and C. Shen, /IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)/, May 2024.
 . [https://arxiv.org/abs/2404.09392 An Autoencoder-Based Constellation Design for AirComp in Wireless Federated Learning]\n
 Y. Mu, X. Wei, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2024
-. MIMO Beamforming and Signal Modulation Design for Federated Learning Optimization\n
+. [https://ieeexplore.ieee.org/document/10436780 MIMO Beamforming and Signal Modulation Design for Federated Learning Optimization]\n
 N. Yang, S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Global Communications Conference (Globecom)/, Dec. 2023
 . [https://arxiv.org/abs/2311.11423 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]\n
 K. Yang, C. Shen, J. Yang, S. Yeh, and J. Sydir, /The 57th Asilomar Conference on Signals, Systems and Computers/, Oct. 2023. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
