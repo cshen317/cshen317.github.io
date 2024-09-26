@@ -4,6 +4,12 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
+. Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models\n
+C. Shi, K. Yang, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
+. [https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]\n
+C. Shi, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
+. Mixture of Demonstrations for In-Context Learning\n
+S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
 S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
 . [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
@@ -75,6 +81,8 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 
 == ML for Wireless
+. Average Reward Reinforcement Learning for Wireless Radio Resource Management\n
+K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Computers/, Oct. 2024.
 . [https://arxiv.org/abs/2312.10547 Advancing RAN Slicing with Offline Reinforcement Learning]\n
 K. Yang, S. Yeh, M. Zhang, J. Sydir, J. Yang, and C. Shen, /IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)/, May 2024.
 . [https://arxiv.org/abs/2404.09392 An Autoencoder-Based Constellation Design for AirComp in Wireless Federated Learning]\n
