@@ -20,7 +20,7 @@ Email: [mailto:cong@virginia.edu cong at virginia dot edu]\n
 I am an Associate Professor in the Department of Electrical and Computer Engineering of University of Virginia. I am also a member of the UVA [https://engineering.virginia.edu/link-lab Link Lab]. I got my B.S. and M.S. from Tsinghua University, and Ph.D. from UCLA. I received the NSF CAREER award in 2022.
 
 My research interests span a number of interdisciplinary topics in machine learning, wireless communications, and networking. Some of my current research topics are:
-- In-context learning
+- In-context learning and Transformers
 - Distributed and decentralized learning
 - Multi-armed bandits and reinforcement learning
 - Wireless communications and networking
@@ -32,7 +32,7 @@ My research interests span a number of interdisciplinary topics in machine learn
 
 
 == News
-- Sept. 2024: Three papers accepted to [https://neurips.cc/ NeurIPS 2024].
+- Sept. 2024: Three papers accepted to [https://neurips.cc/ NeurIPS 2024]. Topics include in-context learning, transformers, and prompt engineering in LLMs. See [topics.html publication] for details.
 - Sept. 2024: Three new PhD students join our group: Di Wu, Songwei Dong, and Zihao Liang. Welcome!
 - May 2024: Our paper "[https://www.science.org/stoken/author-tokens/ST-1855/full Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space]" is featured on the front page of both [https://www.science.org/ Science] and [https://www.science.org/journal/scirobotics Science Robotics]. 
 - May 2024: Our paper "FastGAS: Fast Graph-based Annotation Selection for In-Context Learning" is accepted to ACL 2024 Findings.
