@@ -22,7 +22,7 @@ I am an Associate Professor in the Department of Electrical and Computer Enginee
 My research interests span a number of interdisciplinary topics in machine learning, wireless communications, and networking. Some of my current research topics are:
 - In-context learning and Transformers
 - Distributed and decentralized learning
-- Multi-armed bandits and reinforcement learning
+- Multi-armed bandits, reinforcement learning, and their engineering applications
 - Wireless communications and networking
 
 #{{<font color = DarkOrange size=+1.0><b>}} Prospective Students: {{</b></font>}} Working with talented graduate students has been one of the most pleasant experiences in my faculty career, and I am always looking for candidates with strong mathematical background and/or interest in practical systems. Feel free to contact me with your CV and transcripts.
@@ -33,19 +33,8 @@ My research interests span a number of interdisciplinary topics in machine learn
 
 == News
 - Sept. 2024: Three papers accepted to [https://neurips.cc/ NeurIPS 2024]. Topics include in-context learning, transformers, and prompt engineering in LLMs. See [topics.html publication] for details.
+- Sept. 2024: Kun's accepted Asilomar 2024 paper /Average Reward Reinforcement Learning for Wireless Radio Resource Management/ is selected as a finalist for the Best Student Paper Award.
 - Sept. 2024: Three new PhD students join our group: Di Wu, Songwei Dong, and Zihao Liang. Welcome!
-- May 2024: Our paper "[https://www.science.org/stoken/author-tokens/ST-1855/full Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space]" is featured on the front page of both [https://www.science.org/ Science] and [https://www.science.org/journal/scirobotics Science Robotics]. 
-- May 2024: Our paper "FastGAS: Fast Graph-based Annotation Selection for In-Context Learning" is accepted to ACL 2024 Findings.
-- May 2024: I'm co-organizing two workshops in the upcoming [https://kdd2024.kdd.org/ KDD 2024 conference]. Please consider submitting your works!
--- [https://kdd-milets.github.io/milets2024/ The 10th Mining and Learning from Time Series Workshop: From Classical Methods to LLMs]
--- [https://nl2ql.github.io/ NL2code: Reasoning and Planing with LLM for Code Development]
-- May 2024: Two papers accepted to ICML 2024. Congratulations Zihan!
-- Apr. 2024: Our project "Privacy-preserving Synthetic Data Generation" has been selected for funding by the CCI CATAPULT program. Joint effort with [https://tianhao.wang/ Prof. Tianhao Wang].
-- Apr. 2024: Received UVA Engineering Research Innovation Awards (RIA) on the project "Artificial Insect Eye for Spatiotemporal Perception and Cognition in 3D Space via Edge Computing". Joint effort with [https://engineering.virginia.edu/faculty/kyusang-lee Prof. Kyusang Lee].
-- Apr. 2024: PhD student Zihan Chen won the 2024 ECE Department Ann Lee Brown Rookie of the Year Graduate Research Award. Congratulations!
-- Apr. 2024: Our project titled "[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2332060&HistoricalAwards=false Integrating Federated Split Neural Network with Artificial Stereoscopic Compound Eyes for Optical Flow Sensing in 3D Space with Precision]" is funded by NSF. 
-- Jan. 2024: Wei's first paper has been accepted to AISTATS 2024 -- Congratulations!
-- Jan. 2024: We are organizing [https://icc2024.ieee-icc.org/workshop/ws-34-3rd-workshop-next-generation-spectrum-sharing-technology The 3rd Workshop on Next Generation Spectrum Sharing Technology] in conjunction with IEEE ICC 2024 in Denver, CO, USA. Please consider submitting your work. 
 
 
 {{<font color=blue size=+1.0><b>}}[oldnews.html *archived news*]{{</b></font>}}
