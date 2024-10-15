@@ -4,7 +4,7 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == 2024
-. Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models\n
+. [https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]\n
 C. Shi, K. Yang, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]\n
 C. Shi, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
@@ -13,7 +13,7 @@ S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference o
 . Average Reward Reinforcement Learning for Wireless Radio Resource Management\n
 K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Computers/, Oct. 2024. {{<font color=DarkOrange size=+0.5><b>}}(Finalist for the Best Student Paper Award){{</b></font>}}
 . [https://ieeexplore.ieee.org/document/10605740 Digital Over-the-Air Federated Learning in Multi-Antenna Systems]\n
-S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Trans. Wireless Commun./, accepted for publication.
+S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Trans. Wireless Commun./, vol. 23, no. 10, pp. 15125-15141, October 2024.
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
 S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
 . [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
@@ -23,7 +23,7 @@ B. Bae, D. Lee, M. Park, Y. Mu, Y. Baek, I. Sim, C. Shen, and K. Lee, /Science R
 . [https://ieeexplore.ieee.org/document/10546478 Accelerating Hybrid Federated Learning Convergence under Partial Participation]\n
 J. Bian, L. Wang, K. Yang, C. Shen, J. Xu, /IEEE Trans. on Signal Processing/, vol. 72, pp. 3258-3271, June 2024.
 . [https://ieeexplore.ieee.org/document/10529190 Offline Reinforcement Learning for Wireless Network Optimization with Mixture Datasets]\n
-K. Yang, C. Shi, C. Shen, J. Yang, S. Yeh, and J. Sydir, /IEEE Trans. Wireless Commun./, accepted for publication.
+K. Yang, C. Shi, C. Shen, J. Yang, S. Yeh, and J. Sydir, /IEEE Trans. Wireless Commun./, vol. 23, no. 10, pp. 12703-12716, October 2024.
 . [https://ieeexplore.ieee.org/document/10215316 Random Orthogonalization for Federated Learning in Massive MIMO Systems]\n
 X. Wei, C. Shen, J. Yang, and H. V. Poor, /IEEE Trans. Wireless Commun./, vol. 23, no. 3, pp. 2469-2485, March 2024.
 . [https://ieeexplore.ieee.org/document/10185969 Federated Learning with Heterogeneous Quantization Bit Allocation and Aggregation for Internet of Things]\n
