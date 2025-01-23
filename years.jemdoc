@@ -3,14 +3,30 @@
 
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
+== 2025
+. Cost-Aware Optimal Pairwise Pure Exploration\n
+D. Wu, C. Shi, R. Zhou, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
+. A Shared Low-Rank Adaptation Approach to Personalized RLHF\n
+R. Liu, D. Li, P. Wang, C. Shen, and J. Yang, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
+. [https://arxiv.org/abs/2410.12085 Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning]\n
+F. Gao, R. Zhou, T. Wang, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
+. [https://arxiv.org/abs/2410.13981 On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery]\n
+R. Liu, R. Zhou, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
+. Multi-Agent Decision Transformer for Power Control in Wireless Networks\n
+Y. Zhang, K. Yang, C. Shen, and D. Guo, /2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, April 2025.
+. [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
+L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
+. [https://ieeexplore.ieee.org/abstract/document/10833721/ Indirect-Communication Federated Learning via Mobile Transporters]\n
+J. Bian, C. Shen, M. Chen, and J. Xu, /IEEE Transactions on Mobile Computing/, to appear.
+
 == 2024
 . [https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]\n
 C. Shi, K. Yang, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]\n
 C. Shi, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
-. Mixture of Demonstrations for In-Context Learning\n
+. [https://openreview.net/pdf?id=uqxSLoCw3K Mixture of Demonstrations for In-Context Learning]\n
 S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
-. Average Reward Reinforcement Learning for Wireless Radio Resource Management\n
+. [https://arxiv.org/abs/2501.06700 Average Reward Reinforcement Learning for Wireless Radio Resource Management]\n
 K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Computers/, Oct. 2024. {{<font color=DarkOrange size=+0.5><b>}}(Finalist for the Best Student Paper Award){{</b></font>}}
 . [https://ieeexplore.ieee.org/document/10605740 Digital Over-the-Air Federated Learning in Multi-Antenna Systems]\n
 S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Trans. Wireless Commun./, vol. 23, no. 10, pp. 15125-15141, October 2024.
@@ -82,7 +98,7 @@ J. Bian, C. Shen, and J. Xu /57th Annual Conference on Information Sciences and 
 Y. Li, Y. Guo, M. Alazab, S. Chen, C. Shen, and K. Yu, /IEEE Transactions on Intelligent Transportation Systems/, vol. 23, no. 10, pp. 19852-19863, Oct. 2022.
 . [https://ieeexplore.ieee.org/document/9672092 Federated Learning over Noisy Channels: Convergence Analysis and Design Examples]\n
 X. Wei and C. Shen, /IEEE Transactions on Cognitive Communications and Networking/, vol. 8, no. 2, pp. 1253-1268, June 2022.
-. [https://ieeexplore.ieee.org/document/9756852 On Top-$k$ Selection from $m$-wise Partial Rankings via Borda Counting]\n
+. [https://ieeexplore.ieee.org/document/9756852 On Top-k Selection from m-wise Partial Rankings via Borda Counting]\n
 W. Chen, R. Zhou, C. Tian, and C. Shen, /IEEE Trans. Signal Processing/, vol. 70, pp. 2031-2045, Apr. 2022.
 . [https://ieeexplore.ieee.org/document/9632803 Tx-Rx Reciprocity Calibration for Hybrid Massive MIMO Systems]\n
 X. Wei, Y. Jiang, X. Wang and C. Shen, /IEEE Wireless Communications Letters/, vol. 11, no. 2, pp. 431-435, Feb. 2022.
@@ -174,7 +190,7 @@ W. Wu, J. Yang, and C. Shen, /The 23rd International Conference on Artificial In
 C. Shen, Z. Wang, S. Villa, and M. van der Schaar, /The 37th International Conference on Machine Learning (ICML)/, July 2020. /(acceptance rate: 21.8\%)/
 . [https://ieeexplore.ieee.org/document/9162925 Deep Reinforcement Learning based Wireless Network Optimization: A Comparative Study]\n
 K. Yang, C. Shen, and T. Liu, /IEEE INFOCOM 2020 Workshop on Data Driven Intelligence for Networks/, July 2020.
-. [https://ieeexplore.ieee.org/document/9174020 On Top-$k$ Selection from $m$-wise Partial Rankings via Borda Counting]\n
+. [https://ieeexplore.ieee.org/document/9174020 On Top-k Selection from m-wise Partial Rankings via Borda Counting]\n
 W. Chen, R. Zhou, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, June 2020.
 
 == 2019
@@ -253,4 +269,4 @@ X. Luo, X. Zhang, P. Cai, C. Shen, D. Hu, and H. Qian, /The 9th International Co
 . [https://ieeexplore.ieee.org/document/8030134/ On the Tradeoff Region of Secure Exact-Repair Regenerating Codes]\n
 S. Shao, T. Liu, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, Germany, June 2017.
 . [https://ieeexplore.ieee.org/document/8023473/ On Scheduling Policies in the Presence of Heavy-Tailed Interference]\n
-H. Wu, C. Shen, and S. Chen, /Proc. Information Theory and Applications (ITA) Workshop/, La Jolla, CA, USA, Feb. 2017
+H. Wu, C. Shen, and S. Chen, /Proc. Information Theory and Applications (ITA) Workshop/, La Jolla, CA, USA, Feb. 2017.

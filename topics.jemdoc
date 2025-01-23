@@ -4,11 +4,19 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
+. Cost-Aware Optimal Pairwise Pure Exploration\n
+D. Wu, C. Shi, R. Zhou, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
+. A Shared Low-Rank Adaptation Approach to Personalized RLHF\n
+R. Liu, D. Li, P. Wang, C. Shen, and J. Yang, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
+. [https://arxiv.org/abs/2410.12085 Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning]\n
+F. Gao, R. Zhou, T. Wang, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
+. [https://arxiv.org/abs/2410.13981 On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery]\n
+R. Liu, R. Zhou, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
 . [https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]\n
 C. Shi, K. Yang, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]\n
 C. Shi, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
-. Mixture of Demonstrations for In-Context Learning\n
+. [https://openreview.net/pdf?id=uqxSLoCw3K Mixture of Demonstrations for In-Context Learning]\n
 S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
 S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
@@ -81,7 +89,11 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 
 == ML for Wireless
-. Average Reward Reinforcement Learning for Wireless Radio Resource Management\n
+. [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
+L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
+. Multi-Agent Decision Transformer for Power Control in Wireless Networks\n
+Y. Zhang, K. Yang, C. Shen, and D. Guo, /2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, April 2025.
+. [https://arxiv.org/abs/2501.06700 Average Reward Reinforcement Learning for Wireless Radio Resource Management]\n
 K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Computers/, Oct. 2024. {{<font color=DarkOrange size=+0.5><b>}}(Finalist for the Best Student Paper Award){{</b></font>}}
 . [https://arxiv.org/abs/2312.10547 Advancing RAN Slicing with Offline Reinforcement Learning]\n
 K. Yang, S. Yeh, M. Zhang, J. Sydir, J. Yang, and C. Shen, /IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)/, May 2024.
@@ -140,7 +152,7 @@ F. Liang, C. Shen, and F. Wu, /IEEE International Conference on Communications (
 C. Shen, P. Zhao, and X. Luo, /IEEE International Conference on Communications (ICC)/, June 2021.
 . [https://ieeexplore.ieee.org/document/9443380 Thresholded Wirtinger Flow for Fast Millimeter Wave Beam Alignment]\n
 C. Gan, J. Yang, and C. Shen, /The 54th Asilomar Conference on Signals, Systems and Computers/, Nov. 2020. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
-. [https://ieeexplore.ieee.org/document/9174020 On Top-$k$ Selection from $m$-wise Partial Rankings via Borda Counting]\n
+. [https://ieeexplore.ieee.org/document/9174020 On Top-k Selection from m-wise Partial Rankings via Borda Counting]\n
 W. Chen, R. Zhou, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, June 2020.
 . [https://ieeexplore.ieee.org/document/9013742 Privacy-Aware Edge Computing Based on Adaptive DNN Partitioning]\n
 C. Shi, L. Chen, C. Shen, and J. Xu, /IEEE Global Communications Conference (GLOBECOM)/, Dec. 2019.
@@ -163,5 +175,5 @@ X. Luo, X. Zhang, P. Cai, C. Shen, D. Hu, and H. Qian, /The 9th International Co
 . [https://ieeexplore.ieee.org/document/8030134/ On the Tradeoff Region of Secure Exact-Repair Regenerating Codes]\n
 S. Shao, T. Liu, C. Tian, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, Germany, June 2017.
 . [https://ieeexplore.ieee.org/document/8023473/ On Scheduling Policies in the Presence of Heavy-Tailed Interference]\n
-H. Wu, C. Shen, and S. Chen, /Proc. Information Theory and Applications (ITA) Workshop/, La Jolla, CA, USA, Feb. 2017
+H. Wu, C. Shen, and S. Chen, /Proc. Information Theory and Applications (ITA) Workshop/, La Jolla, CA, USA, Feb. 2017.
 
