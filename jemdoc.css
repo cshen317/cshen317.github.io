@@ -230,7 +230,7 @@ li ul, li ol {
 ol {
 	list-style-position: outside;
 	list-style-type: decimal;
-	color: #666666;
+	color: #333333;
 }
 
 ul p, dd p {
@@ -243,12 +243,12 @@ ol p, dd p {
 
 ol ol {
 	list-style-type: lower-alpha;
-	color: #666666;
+	color: #333333;
 }
 
 ol ol ol {
 	list-style-type: lower-roman;
-	color: #666666;
+	color: #333333;
 }
 
 p + div.codeblock {
