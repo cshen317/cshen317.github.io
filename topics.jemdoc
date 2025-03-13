@@ -4,7 +4,7 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
-. Cost-Aware Optimal Pairwise Pure Exploration\n
+. [https://arxiv.org/abs/2503.07877 Cost-Aware Optimal Pairwise Pure Exploration]\n
 D. Wu, C. Shi, R. Zhou, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
 . A Shared Low-Rank Adaptation Approach to Personalized RLHF\n
 R. Liu, D. Li, P. Wang, C. Shen, and J. Yang, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
@@ -91,7 +91,7 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 == ML for Wireless
 . [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
 L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
-. Multi-Agent Decision Transformer for Power Control in Wireless Networks\n
+. [https://ieeexplore.ieee.org/document/10888576 Multi-Agent Decision Transformer for Power Control in Wireless Networks]\n
 Y. Zhang, K. Yang, C. Shen, and D. Guo, /2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, April 2025.
 . [https://arxiv.org/abs/2501.06700 Average Reward Reinforcement Learning for Wireless Radio Resource Management]\n
 K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Computers/, Oct. 2024. {{<font color=DarkOrange size=+0.5><b>}}(Finalist for the Best Student Paper Award){{</b></font>}}
