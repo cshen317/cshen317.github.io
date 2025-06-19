@@ -10,6 +10,8 @@ R. Huang, D. Li, C. Shi, C. Shen, and J. Yang, /The 41st Conference on Uncertain
 Z. Chen, S. Wang, Z. Tan, J. Li, and C. Shen, /The 42nd International Conference on Machine Learning (ICML)/, July 2025.
 . [https://arxiv.org/abs/2410.11778 On the Training Convergence of Transformers for In-Context Classification of Gaussian Mixtures]\n
 W. Shen, R. Zhou, J. Yang, and C. Shen, /The 42nd International Conference on Machine Learning (ICML)/, July 2025.
+. [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
+L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
 . [https://arxiv.org/abs/2503.07877 Cost-Aware Optimal Pairwise Pure Exploration]\n
 D. Wu, C. Shi, R. Zhou, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2025.
 . [https://arxiv.org/abs/2503.19201 A Shared Low-Rank Adaptation Approach to Personalized RLHF]\n
@@ -20,12 +22,10 @@ F. Gao, R. Zhou, T. Wang, C. Shen, and J. Yang, /The Thirteenth International Co
 R. Liu, R. Zhou, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
 . [https://ieeexplore.ieee.org/document/10888576 Multi-Agent Decision Transformer for Power Control in Wireless Networks]\n
 Y. Zhang, K. Yang, C. Shen, and D. Guo, /2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, April 2025.
-. [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
-L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
 . [https://ieeexplore.ieee.org/abstract/document/10833721/ Indirect-Communication Federated Learning via Mobile Transporters]\n
-J. Bian, C. Shen, M. Chen, and J. Xu, /IEEE Transactions on Mobile Computing/, to appear.
+J. Bian, C. Shen, M. Chen, and J. Xu, /IEEE Transactions on Mobile Computing/, vol. 24, no. 6, pp. 4845 -- 4857, June 2025.
 . [https://arxiv.org/abs/2503.06426 Federated Learning for Diffusion Models]\n
-Z. Peng, X. Wang, S. Chen, H. Rao, and C. Shen, /IEEE Transactions on Cognitive Communications and Networking/, to appear
+Z. Peng, X. Wang, S. Chen, H. Rao, and C. Shen, /IEEE Transactions on Cognitive Communications and Networking/, to appear.
 
 == 2024
 . [https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]\n
