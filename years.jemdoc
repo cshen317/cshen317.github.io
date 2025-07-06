@@ -4,7 +4,13 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == 2025
-. Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis\n
+. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
+W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
+. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
+W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
+L. Fan, P. Wang, J. Yang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2505.13768 Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis]\n
 R. Huang, D. Li, C. Shi, C. Shen, and J. Yang, /The 41st Conference on Uncertainty in Artificial Intelligence (UAI)/, July 2025.
 . [https://arxiv.org/abs/2505.16225 MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning]\n
 Z. Chen, S. Wang, Z. Tan, J. Li, and C. Shen, /The 42nd International Conference on Machine Learning (ICML)/, July 2025.
@@ -39,7 +45,7 @@ K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Com
 . [https://ieeexplore.ieee.org/document/10605740 Digital Over-the-Air Federated Learning in Multi-Antenna Systems]\n
 S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Trans. Wireless Commun./, vol. 23, no. 10, pp. 15125-15141, October 2024.
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
-S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
+S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, preprint.
 . [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
 C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, July 2024.
 . [https://www.science.org/stoken/author-tokens/ST-1855/full Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space]\n

@@ -4,7 +4,11 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
-. Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis\n
+. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
+W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
+. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
+W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2505.13768 Augmenting Online RL with Offline Data is All You Need: A Unified Hybrid RL Algorithm Design and Analysis]\n
 R. Huang, D. Li, C. Shi, C. Shen, and J. Yang, /The 41st Conference on Uncertainty in Artificial Intelligence (UAI)/, July 2025.
 . [https://arxiv.org/abs/2505.16225 MAPLE: Many-Shot Adaptive Pseudo-Labeling In-Context Learning]\n
 Z. Chen, S. Wang, Z. Tan, J. Li, and C. Shen, /The 42nd International Conference on Machine Learning (ICML)/, July 2025.
@@ -95,6 +99,8 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 
 == ML for Wireless
+. [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
+L. Fan, P. Wang, J. Yang, and C. Shen, preprint.
 . [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
 L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
 . [https://ieeexplore.ieee.org/document/10888576 Multi-Agent Decision Transformer for Power Control in Wireless Networks]\n
