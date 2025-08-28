@@ -20,10 +20,10 @@ Email: [mailto:cong@virginia.edu cong at virginia dot edu]\n
 I am an Associate Professor in the Department of Electrical and Computer Engineering of University of Virginia. I am also a member of the UVA [https://engineering.virginia.edu/link-lab Link Lab]. I got my B.S. and M.S. from Tsinghua University, and Ph.D. from UCLA. I received the NSF CAREER award in 2022.
 
 My research interests span a number of interdisciplinary topics in machine learning, wireless communications, and networking. Some of my current research topics are:
+- AI/ML for wireless
 - In-context learning and Transformers
 - Distributed and decentralized learning
 - Multi-armed bandits, reinforcement learning, and their engineering applications
-- AI/ML for wireless
 
 #{{<font color = DarkOrange size=+1.0><b>}} Prospective Students: {{</b></font>}} Working with talented graduate students has been one of the most pleasant experiences in my faculty career, and I am always looking for candidates with strong mathematical background and/or interest in practical systems. Feel free to contact me with your CV and transcripts.
 #*Prospective Students:* One  fully-funded PhD student position starting Fall 2021 is currently available. Candidates with strong mathematical background and interest in machine learning and/or wireless communications are encouraged to contact me with your CV and transcripts.
@@ -34,6 +34,8 @@ My research interests span a number of interdisciplinary topics in machine learn
 
 
 == News
+- Aug. 2025: Area Chair for AISTATS 2026 and ICLR 2026.
+- Aug. 2025: Lead organizer for [https://ai4nextg.github.io/ AI4NextG Workshop @ NeurIPS'25]. Submission deadline: August 29, 2025. Check our website for more details.
 - May 2025: I started the role of [https://www.spectrumx.org/news/nsf-spectrumx-working-groups-gain-new-leaders-from-northwestern-uva/ Deputy Director of Collaboration at SpectrumX].
 - May 2025: Two papers accepted to [https://icml.cc/ ICML 2025]. Topics include in-context learning and transformers. See [topics.html publication] for details.
 - Feb. 2025: Welcome Danya Balakumaran Meenakumari (master) and Diana Lin (undergraduate) to our [group.html group]!
@@ -42,10 +44,6 @@ My research interests span a number of interdisciplinary topics in machine learn
 - Jan. 2025: The collaborative paper "[https://www.science.org/stoken/author-tokens/ST-1855/full Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space]" between Prof. Kyusang Lee's group and ours has been selected as the *Best Paper of 2024* of Science Robotics. Read the Engineering School news [https://engineering.virginia.edu/news-events/news/influential-robotics-journal-picks-uva-paper-best-2024 here].
 - Jan. 2025: Our [https://arxiv.org/abs/2411.07600 paper] on transformer-based physical-layer wireless system design has been accepted to ICC 2025.
 - Jan. 2025: PhD student [https://kerzb.github.io/ Zhoubin Kou] joins our [group.html group]. Welcome!
-- Oct. 2024: [https://peter-peng-w.github.io/ Peng Wang] joins our [group.html group]. He is in our CS department and co-advised by me and [https://jing-yang7.github.io/ Prof. Jing Yang].
-- Sept. 2024: Three papers accepted to [https://neurips.cc/ NeurIPS 2024]. Topics include in-context learning, transformers, game theory, and prompt engineering in LLMs. See [topics.html publication] for details.
-- Sept. 2024: Kun's accepted Asilomar 2024 paper /Average Reward Reinforcement Learning for Wireless Radio Resource Management/ is selected as a *finalist for the Best Student Paper Award*.
-- Sept. 2024: Three new PhD students join our [group.html group]: Di Wu, Songwei Dong, and Zihao Liang. Welcome!
 
 
 {{<font color=blue size=+1.0><b>}}[oldnews.html *archived news*]{{</b></font>}}
