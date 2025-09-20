@@ -10,6 +10,8 @@ W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
 W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
 . [https://arxiv.org/abs/2503.16594 Decision Feedback In-Context Learning for Wireless Symbol Detection]\n
 L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
+S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, preprint.
 
 == 2025
 . Greedy Sampling Is Provably Efficient For RLHF\n
@@ -22,6 +24,8 @@ L. Fan, P. Wang, J. Yang, and C. Shen, /IEEE Global Communications Conference (G
 Z. Chen, S. Wang, X. Fu, C. Shi, Z. Lei, C. Shen, J. Li, EMNLP Findings, Nov. 2025.
 . Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation\n
 S. Wang, Z. Chen, P. Wang, Z. Wei, Z. Tan, Y. Meng, C. Shen, J. Li, EMNLP Main Conference, Nov. 2025.
+. [https://dl.acm.org/doi/pdf/10.1145/3711896.3736566 Graph Prompting for Graph Learning Models: Recent Advances and Future Directions]\n
+X. Fu, Z. Wang, Z. Chen, J. Li, Y. Zhu, Z. Lei, C. Shen, Y. Ye, C. Zhang, and J. Li, /The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining/, Aug. 2025
 . [https://arxiv.org/abs/2507.15816 Federated Split Learning with Improved Communication and Storage Efficiency
 ]\n
 Y. Mu and C. Shen, 	Accepted for publication in /IEEE Transactions on Mobile Computing/.
@@ -59,8 +63,6 @@ S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference o
 K. Yang, J. Yang, and C. Shen, /Asilomar Conference on Signals, Systems, and Computers/, Oct. 2024. {{<font color=DarkOrange size=+0.5><b>}}(Finalist for the Best Student Paper Award){{</b></font>}}
 . [https://ieeexplore.ieee.org/document/10605740 Digital Over-the-Air Federated Learning in Multi-Antenna Systems]\n
 S. Wang, M. Chen, C. Shen, C. Yin, and C. G. Brinton, /IEEE Trans. Wireless Commun./, vol. 23, no. 10, pp. 15125-15141, October 2024.
-. [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
-S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, preprint.
 . [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
 C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, July 2024.
 . [https://www.science.org/stoken/author-tokens/ST-1855/full Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space]\n
