@@ -3,6 +3,16 @@
 
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
+== Preprint
+. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
+W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
+. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
+W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2503.16594 Decision Feedback In-Context Learning for Wireless Symbol Detection]\n
+L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
+L. Fan, P. Wang, J. Yang, and C. Shen, preprint.
+
 == 2025
 . Greedy Sampling Is Provably Efficient For RLHF\n
 D. Wu, C. Shi, J. Yang, and C. Shen, /Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2025.
@@ -12,14 +22,6 @@ W. Shen, J. Zhang, M. Huang, and C. Shen, /Thirty-Ninth Annual Conference on Neu
 Z. Chen, S. Wang, X. Fu, C. Shi, Z. Lei, C. Shen, J. Li, EMNLP Findings, Nov. 2025.
 . Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation\n
 S. Wang, Z. Chen, P. Wang, Z. Wei, Z. Tan, Y. Meng, C. Shen, J. Li, EMNLP Main Conference, Nov. 2025.
-. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
-W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
-. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
-W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
-. [https://arxiv.org/abs/2503.16594 Decision Feedback In-Context Learning for Wireless Symbol Detection]\n
-L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
-. [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
-L. Fan, P. Wang, J. Yang, and C. Shen, preprint.
 . [https://arxiv.org/abs/2507.15816 Federated Split Learning with Improved Communication and Storage Efficiency
 ]\n
 Y. Mu and C. Shen, 	Accepted for publication in /IEEE Transactions on Mobile Computing/.
