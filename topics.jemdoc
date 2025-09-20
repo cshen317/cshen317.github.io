@@ -4,6 +4,10 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
+. Greedy Sampling Is Provably Efficient For RLHF\n
+D. Wu, C. Shi, J. Yang, and C. Shen, /Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2025.
+. A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel Optimization\n
+W. Shen, J. Zhang, M. Huang, and C. Shen, /Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2025.
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
 W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
 . [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
