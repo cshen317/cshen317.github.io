@@ -4,17 +4,6 @@
 == PhD Students
 
 ~~~
-{}{img_left}{Yujia2.jpg}{Picture of Yujia Mu}{114}{}{}
-*Yujia Mu*\n
-Ph.D. Student (Fall 2020 - current)\n
-#B.S., Tsinghua University\n
-#M.S., UVA
-
-{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
-ECE Department Malathi Veeraraghavan Legacy Fellowship in 2022\n
-~~~
-
-~~~
 {}{img_left}{Li.jpg}{Picture of Li Fan}{114}{}{}
 *Li Fan*\n
 Ph.D. Student (Fall 2020 - current)\n
@@ -77,13 +66,19 @@ Ph.D. Student (Spring 2025 - current)\n
 Undergraduate student in CpE of UVA (Spring 2025 - current)\n
 ~~~
 
-== Master Researcher
+~~~
+*Lisa Berlizova*\n
+Undergraduate student in EE of UVA (Summer 2025 - current)\n
+~~~
 
-~~~
-{}{img_left}{Danya.jpg}{Picture of Danya}{114}{}{}
-*Danya Balakumaran Meenakumari*\n
-M.S. in CpE of UVA (Fall 2024 - current)\n
-~~~
+
+#== Master Researcher
+#
+#~~~
+#{}{img_left}{Danya.jpg}{Picture of Danya}{114}{}{}
+#*Danya Balakumaran Meenakumari*\n
+#M.S. in CpE of UVA (Fall 2024 - current)\n
+#~~~
 
 == Alumni
 
@@ -100,7 +95,8 @@ Ph.D. (Fall 2019 - Spring 2024)\n
 #ECE Department Louis T Rader Graduate Research Award in 2023\n
 
 {{<font color = DarkOrange size=+1.0>}} Current job: {{</font>}}\n
-Bloomberg AI
+Princeton Language and Intelligence
+#Bloomberg AI
 
 ~~~
 
@@ -129,6 +125,20 @@ Ph.D. (Fall 2020 - Summer 2024)\n
 
 {{<font color = DarkOrange size=+1.0>}} Current job: {{</font>}}\n
 Google
+~~~
+
+~~~
+{}{img_left}{Yujia2.jpg}{Picture of Yujia Mu}{114}{}{}
+*Yujia Mu*\n
+Ph.D. (Fall 2020 - Fall 2025)\n
+#B.S., Tsinghua University\n
+#M.S., UVA
+
+{{<font color = DarkOrange size=+1.0>}} Current job: {{</font>}}\n
+TikTok
+
+#{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
+#ECE Department Malathi Veeraraghavan Legacy Fellowship in 2022\n
 ~~~
 
 == Visiting Students
