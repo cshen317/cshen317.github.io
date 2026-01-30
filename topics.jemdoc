@@ -4,6 +4,10 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML
+. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
+W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2026.
+. Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits\n
+D. Li, C. Shi, W. Ou, C. Shen, and J. Yang, /The Fourteenth International Conference on Learning Representations (ICLR)/, Apr. 2026
 . [https://arxiv.org/abs/2510.24700 Greedy Sampling Is Provably Efficient For RLHF]\n
 D. Wu, C. Shi, J. Yang, and C. Shen, /Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2025.
 . [https://arxiv.org/abs/2510.24710 A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel Optimization]\n

@@ -6,12 +6,22 @@
 == Preprint
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
 W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
-. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
-W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
+. [https://arxiv.org/abs/2601.09076 Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning]\n
+Z. Kou, Z. Chen, J. Yang, and C. Shen, preprint.
 . [https://arxiv.org/abs/2503.16594 Decision Feedback In-Context Learning for Wireless Symbol Detection]\n
 L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
+
+== 2026
+. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
+W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2026.
+. Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits\n
+D. Li, C. Shi, W. Ou, C. Shen, and J. Yang, /The Fourteenth International Conference on Learning Representations (ICLR)/, Apr. 2026
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
-S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, preprint.
+S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, /IEEE Transactions on Knowledge and Data Engineering/, accepted.
+. [https://ieeexplore.ieee.org/abstract/document/11271547 Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness]\n
+B. Li, Z. Peng, Y. Li, Z. Li, S. Chen, C. Shen, and T. Quek, /IEEE Transactions on Network Science and Engineering/, accepted.
+. [https://ieeexplore.ieee.org/abstract/document/11265807 A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning]\n
+B. Li, Z. Li, Y. Li, M. Xu, S. Chen, C. Shen, and T. Quek, /IEEE Transactions on Mobile Computing/, accpeted.
 
 == 2025
 . [https://arxiv.org/abs/2510.24700 Greedy Sampling Is Provably Efficient For RLHF]\n
