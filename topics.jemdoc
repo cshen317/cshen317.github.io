@@ -12,10 +12,6 @@ D. Li, C. Shi, W. Ou, C. Shen, and J. Yang, /The Fourteenth International Confer
 D. Wu, C. Shi, J. Yang, and C. Shen, /Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2025.
 . [https://arxiv.org/abs/2510.24710 A Single-Loop First-Order Algorithm for Linearly Constrained Bilevel Optimization]\n
 W. Shen, J. Zhang, M. Huang, and C. Shen, /Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2025.
-. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
-W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
-. [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
-W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, preprint.
 . [https://arxiv.org/abs/2510.24528 From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning]\n
 Z. Chen, S. Wang, X. Fu, C. Shi, Z. Lei, C. Shen, J. Li, /Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings/, pages 11626–11642, Suzhou, China, Nov. 2025.
 . [https://aclanthology.org/2025.emnlp-main.587/ Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation]\n
@@ -42,50 +38,32 @@ C. Shi, K. Yang, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neura
 C. Shi, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://openreview.net/pdf?id=uqxSLoCw3K Mixture of Demonstrations for In-Context Learning]\n
 S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
-. [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
-S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, J. Li, preprint.
 . [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
 C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, July 2024.
 . [https://arxiv.org/abs/2406.03730 FastGAS: Fast Graph-based Annotation Selection for In-Context Learning]\n
-Z. Chen, S. Wang, C. Shen, and J. Li, /ACL 2024 Findings/, Aug. 2024
+Z. Chen, S. Wang, C. Shen, and J. Li, /Findings of the Association for Computational Linguistics: ACL 2024/, Aug. 2024
 . [https://openreview.net/pdf?id=OkChMnjF6s Verification of Machine Unlearning is Fragile]\n
 B. Zhang, Z. Chen, C. Shen, and J. Li, /International Conference on Machine Learning (ICML)/, July 2024.
 . [https://arxiv.org/abs/2406.04596 Federated Representation Learning in the Under-Parameterized Regime]\n
 R. Liu, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2024.
 . [https://proceedings.mlr.press/v238/shen24c.html Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization]\n
 W. Shen, M. Huang, J. Zhang, and C. Shen, /International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2024.
-. [https://arxiv.org/abs/2312.15148 Personalized Federated Learning with Attention-based Client Selection]\n
-Z. Chen, J. Li, and C. Shen, /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, Apr. 2024. 
 . [https://arxiv.org/abs/2311.00973 Federated Linear Bandits with Finite Adversarial Actions]\n
 L. Fan, R. Zhou, C. Tian, and C. Shen, /Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2023.
 . [https://proceedings.mlr.press/v202/shi23h/shi23h.pdf Provably Efficient Offline Reinforcement Learning with Perturbed Data Sources]\n
 C. Shi, W. Xiong, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2023.
 . [https://proceedings.mlr.press/v202/li23k/li23k.pdf Near-optimal Conservative Exploration in Reinforcement Learning under Episode-wise Constraints]\n
 D. Li, R. Huang, C. Shen, and J. Yang, /International Conference on Machine Learning (ICML)/, July 2023.
-. [https://arxiv.org/abs/2305.02441 Reward Teaching for Federated Multi-Armed Bandits]\n
-C. Shi, W. Xiong, C. Shen, and J. Yang, /IEEE International Symposium on Information Theory (ISIT)/, June 2023.
-. [http://arxiv.org/abs/2305.03884 On High-Dimensional and Low-Rank Tensor Bandits]\n
-C. Shi, C. Shen, and N. D. Sidiropoulos, /IEEE International Symposium on Information Theory (ISIT)/, June 2023.
-. [https://ieeexplore.ieee.org/document/10206757 Exploiting Feature Heterogeneity for Improved Generalization in Federated Multi-Task Learning]\n
-R. Liu, J. Yang, and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, June 2023.
 . [https://openreview.net/pdf?id=UP_GHHPw7rP Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game]\n
 W. Xiong, H. Zhong, C. Shi, C. Shen, L. Wang, and T. Zhang, /International Conference on Learning Representations (ICLR)/, May 2023.
-. [https://ieeexplore.ieee.org/document/10089695 Teaching Reinforcement Learning Agents via Reinforcement Learning]\n
-K. Yang, C. Shi, and C. Shen, /57th Annual Conference on Information Sciences and Systems (CISS)/, March 2023. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
 . [https://proceedings.mlr.press/v162/xiong22b.html A Self-Play Posterior Sampling Algorithm for Zero-Sum Markov Games]\n
 W. Xiong, H. Zhong, C. Shi, C. Shen, and T. Zhang, /The 39th International Conference on Machine Learning (ICML)/, July 2022.
-. [https://ieeexplore.ieee.org/document/9834892 Cascading Bandits With Two-Level Feedback]\n
-D. Cheng, R. Huang, C. Shen, and J. Yang, /IEEE International Symposium on Information Theory (ISIT)/, June 2022.
-. [https://arxiv.org/abs/2112.10377 Learning for Robust Combinatorial Optimization: Algorithm and Application]\n
-Z. Shao, J. Yang, C. Shen and S. Ren, /IEEE Conference on Computer Communications (INFOCOM)/, May 2022.
 . [https://arxiv.org/abs/2110.14628 (Almost) Free Incentivized Exploration from Decentralized Learning Agents]\n
 C. Shi, H. Xu, W. Xiong, and C. Shen, /Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2021. 
 . [https://arxiv.org/abs/2110.14622 Heterogeneous Multi-player Multi-armed Bandits: Closing the Gap and Generalization]\n
 C. Shi, W. Xiong, C. Shen, and J. Yang, /Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2021. 
 . [https://arxiv.org/abs/2110.14177 Federated Linear Contextual Bandits]\n
 R. Huang, W. Wu, J. Yang, and C. Shen, /Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2021. 
-. [https://ieeexplore.ieee.org/document/9517726 An Attackability Perspective on No-Sensing Adversarial Multi-player Multi-armed Bandits]\n
-C. Shi and C. Shen, /IEEE International Symposium on Information Theory (ISIT)/, July 2021.
 . [http://proceedings.mlr.press/v130/lee21c.html SDF-Bayes: Cautious Optimism in Safe Dose-Finding Clinical Trials with Drug Combinations and Heterogeneous Patient Groups]\n
 H. Lee, C. Shen, W. Zame, J. Lee, and M. van der Schaar, /The 24rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Apr. 2021. 
 . [http://proceedings.mlr.press/v130/shi21c.html Federated Multi-armed Bandits with Personalization]\n
@@ -102,10 +80,6 @@ C. Shi, W. Xiong, C. Shen, and J. Yang, /The 23rd International Conference on Ar
 W. Wu, J. Yang, and C. Shen, /The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Aug. 2020.
 . [http://proceedings.mlr.press/v119/shen20d/shen20d.pdf Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints]\n
 C. Shen, Z. Wang, S. Villa, and M. van der Schaar, /The 37th International Conference on Machine Learning (ICML)/, July 2020. 
-. [https://ieeexplore.ieee.org/document/8849646 Online Learning with Diverse User Preferences]\n
-C. Gan, J. Yang, R. Zhou, and C. Shen, /IEEE International Symposium on Information Theory/, Paris, France, July 2019.
-. [https://ieeexplore.ieee.org/document/8613513 Best Arm Identification for Both Stochastic and Adversarial Multi-armed Bandits]\n
-H. Zhang and C. Shen, /IEEE Information Theory Workshop (ITW)/, Guangzhou, China, Nov. 2018. {{<font color=DarkOrange size=+0.5><b>}}(Invited Paper){{</b></font>}}
 . [https://www.ijcai.org/proceedings/2018/0448.pdf Cost-aware Cascading Bandits]\n
 R. Zhou, C. Gan, J. Yang, and C. Shen, /Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence (IJCAI)/, Pages 3228-3234, July 2018. 
 . [http://proceedings.mlr.press/v84/wang18b/wang18b.pdf Regional Multi-Armed Bandits]\n
@@ -114,7 +88,7 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 == ML for Wireless
 . [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
-L. Fan, P. Wang, J. Yang, and C. Shen, preprint.
+L. Fan, P. Wang, J. Yang, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2025.
 . [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
 L. Fan, J. Yang, and C. Shen, /IEEE International Conference on Communication (ICC)/, June 2025.
 . [https://ieeexplore.ieee.org/document/10888576 Multi-Agent Decision Transformer for Power Control in Wireless Networks]\n
