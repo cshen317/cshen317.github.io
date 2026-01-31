@@ -32,6 +32,8 @@ R. Liu, D. Li, P. Wang, C. Shen, and J. Yang, /The 28th International Conference
 F. Gao, R. Zhou, T. Wang, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
 . [https://arxiv.org/abs/2410.13981 On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery]\n
 R. Liu, R. Zhou, C. Shen, and J. Yang, /The Thirteenth International Conference on Learning Representations (ICLR)/, April 2025.
+. [https://arxiv.org/abs/2504.21206 FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs]\n
+Z. Chen, X. Fu, Y. Dong, J. Li, and C. Shen, /Transactions on Machine Learning Research (TMLR)/, 2025.
 . [https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]\n
 C. Shi, K. Yang, J. Yang, and C. Shen, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://arxiv.org/abs/2402.09723 Efficient Prompt Optimization Through the Lens of Best Arm Identification]\n
@@ -39,7 +41,7 @@ C. Shi, K. Yang, Z. Chen, J. Li, J. Yang, and C. Shen, /Thirty-eighth Annual Con
 . [https://openreview.net/pdf?id=uqxSLoCw3K Mixture of Demonstrations for In-Context Learning]\n
 S. Wang, Z. Chen, C. Shi, C. Shen, and J. Li, /Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2024.
 . [https://openreview.net/pdf?id=Z8wcREe9qV Harnessing the Power of Federated Learning in Federated Contextual Bandits]\n
-C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, July 2024.
+C. Shi, R. Zhou, K. Yang, and C. Shen, /Transactions on Machine Learning Research/, 2024.
 . [https://arxiv.org/abs/2406.03730 FastGAS: Fast Graph-based Annotation Selection for In-Context Learning]\n
 Z. Chen, S. Wang, C. Shen, and J. Li, /Findings of the Association for Computational Linguistics: ACL 2024/, Aug. 2024
 . [https://openreview.net/pdf?id=OkChMnjF6s Verification of Machine Unlearning is Fragile]\n
