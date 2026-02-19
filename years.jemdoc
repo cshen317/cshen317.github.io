@@ -32,6 +32,8 @@ W. Shen, J. Zhang, M. Huang, and C. Shen, /Thirty-Ninth Annual Conference on Neu
 Z. Chen, X. Fu, Y. Dong, J. Li, and C. Shen, /Transactions on Machine Learning Research (TMLR)/, 2025.
 . [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
 L. Fan, P. Wang, J. Yang, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2025.
+. [https://arxiv.org/abs/2503.06426 Federated Learning for Diffusion Models]\n
+Z. Peng, X. Wang, S. Chen, H. Rao, and C. Shen, /IEEE Transactions on Cognitive Communications and Networking/, Volume: 11, Issue: 6, Page(s): 4093 -- 4109, December 2025.
 . [https://arxiv.org/abs/2510.24528 From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning]\n
 Z. Chen, S. Wang, X. Fu, C. Shi, Z. Lei, C. Shen, J. Li, /Conference on Empirical Methods in Natural Language Processing (EMNLP) Findings/, pages 11626–11642, Suzhou, China, Nov. 2025.
 . [https://aclanthology.org/2025.emnlp-main.587/ Separate the Wheat from the Chaff: Winnowing Down Divergent Views in Retrieval Augmented Generation]\n
@@ -63,8 +65,6 @@ R. Liu, R. Zhou, C. Shen, and J. Yang, /The Thirteenth International Conference 
 Y. Zhang, K. Yang, C. Shen, and D. Guo, /2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, April 2025.
 . [https://ieeexplore.ieee.org/abstract/document/10833721/ Indirect-Communication Federated Learning via Mobile Transporters]\n
 J. Bian, C. Shen, M. Chen, and J. Xu, /IEEE Transactions on Mobile Computing/, vol. 24, no. 6, pp. 4845 -- 4857, June 2025.
-. [https://arxiv.org/abs/2503.06426 Federated Learning for Diffusion Models]\n
-Z. Peng, X. Wang, S. Chen, H. Rao, and C. Shen, /IEEE Transactions on Cognitive Communications and Networking/, to appear.
 
 == 2024
 . [https://arxiv.org/abs/2410.09701 Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models]\n
