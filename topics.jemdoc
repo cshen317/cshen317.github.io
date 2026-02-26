@@ -3,7 +3,9 @@
 
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
-== AI / ML
+== AI / ML / Security
+. HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings\n
+X. Li, F. Gao, X. Wei, T. Wang, C. Shen, J. Yang, SIGMOD International Conference on Management of Data, May 2026.
 . [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
 W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2026.
 . Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits\n
