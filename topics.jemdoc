@@ -91,6 +91,8 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 
 == ML for Wireless
+. Robust Pathloss Radio Map Prediction via Physics-Informed Transformer\n
+Z. Liang and C. Shen, /IEEE DySPAN 2026/, May 2026.
 . [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
 L. Fan, P. Wang, J. Yang, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2025.
 . [https://arxiv.org/abs/2411.07600 Decision Feedback In-Context Symbol Detection over Block-Fading Channels]\n
