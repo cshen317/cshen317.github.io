@@ -26,21 +26,87 @@ import sys
 import os
 import re
 import time
-import StringIO
+import io
 from subprocess import *
 import tempfile
 
+
+# Python 3 port helpers ------------------------------------------------------
+# The original jemdoc was written for Python 2 where file objects opened with
+# 'rb' returned str (bytes) and supported relative seeks. In Python 3, 'rb'
+# returns bytes (incompatible with str comparisons used throughout this file)
+# while text mode disallows non-zero cur-relative seeks (e.g. seek(-1, 1)).
+# This wrapper opens files in binary mode and transparently decodes reads to
+# str so the rest of the code keeps working unchanged.
+_DEFAULT_ENCODING = 'utf-8'
+
+class _TextFile(object):
+  """Binary-backed file that yields str from read/readline and supports seek(-1, 1)."""
+  def __init__(self, binfile, encoding=_DEFAULT_ENCODING):
+    self._f = binfile
+    self._encoding = encoding
+
+  def read(self, n=-1):
+    return self._f.read(n).decode(self._encoding)
+
+  def readline(self, *args, **kwargs):
+    return self._f.readline(*args, **kwargs).decode(self._encoding)
+
+  def readlines(self, *args, **kwargs):
+    return [b.decode(self._encoding) for b in self._f.readlines(*args, **kwargs)]
+
+  def seek(self, *args, **kwargs):
+    return self._f.seek(*args, **kwargs)
+
+  def tell(self):
+    return self._f.tell()
+
+  def write(self, data):
+    if isinstance(data, str):
+      data = data.encode(self._encoding)
+    return self._f.write(data)
+
+  def close(self):
+    return self._f.close()
+
+  def __iter__(self):
+    for b in self._f:
+      yield b.decode(self._encoding)
+
+  def __getattr__(self, name):
+    return getattr(self._f, name)
+
+
+def _open_text(path, mode='r'):
+  """Open *path* in binary mode but return a str-yielding wrapper."""
+  if mode in ('r', 'rb', 'rUb', 'rU'):
+    return _TextFile(open(path, 'rb'))
+  raise ValueError('Unsupported mode: %r' % mode)
+
+
+def _decode_lines(seq):
+  """Decode a list of bytes lines (e.g. from Popen.stdout.readlines())."""
+  out = []
+  for b in seq:
+    if isinstance(b, bytes):
+      out.append(b.decode(_DEFAULT_ENCODING, errors='replace'))
+    else:
+      out.append(b)
+  return out
+# ---------------------------------------------------------------------------
+
+
 def info():
-  print __doc__
-  print 'Platform: ' + sys.platform + '.'
-  print 'Python: %s, located at %s.' % (sys.version[:5], sys.executable)
-  print 'Equation support:',
+  print(__doc__)
+  print('Platform: ' + sys.platform + '.')
+  print('Python: %s, located at %s.' % (sys.version[:5], sys.executable))
+  print('Equation support:', end=' ')
   (supported, message) = testeqsupport()
   if supported:
-    print 'yes.'
+    print('yes.')
   else:
-    print 'no.'
-  print message
+    print('no.')
+  print(message)
 
 def testeqsupport():
   supported = True
@@ -51,14 +117,14 @@ def testeqsupport():
     msg += '  latex: not found.\n'
     supported = False
   else:
-    msg += '  latex: ' + p.stdout.readlines()[0].rstrip() + '.\n'
+    msg += '  latex: ' + _decode_lines(p.stdout.readlines())[0].rstrip() + '.\n'
   p = Popen('dvipng --version', shell=True, stdout=PIPE, stderr=PIPE)
   rc = p.wait()
   if rc != 0:
     msg += '  dvipng: not found.\n'
     supported = False
   else:
-    msg += '  dvipng: ' + p.stdout.readlines()[0].rstrip() + '.\n'
+    msg += '  dvipng: ' + _decode_lines(p.stdout.readlines())[0].rstrip() + '.\n'
 
   return (supported, msg[:-1])
 
@@ -85,7 +151,7 @@ class controlstruct(object):
 
   def pushfile(self, newfile):
     self.otherfiles.insert(0, self.inf)
-    self.inf = open(newfile, 'rb')
+    self.inf = _open_text(newfile)
 
   def nextfile(self):
     self.inf.close()
@@ -127,7 +193,7 @@ def showhelp():
     else:
       b += l
 
-  print b
+  print(b)
 
 def standardconf():
   a = """[firstbit]
@@ -296,9 +362,9 @@ def parseconf(cns):
   syntax = {}
   warn = False # jem. make configurable?
   # manually add the defaults as a file handle.
-  fs = [StringIO.StringIO(standardconf())]
+  fs = [_TextFile(io.BytesIO(standardconf().encode(_DEFAULT_ENCODING)))]
   for sname in cns:
-    fs.append(open(sname, 'rb'))
+    fs.append(_open_text(sname))
 
   for f in fs:
     while pc(controlstruct(f)) != '':
@@ -321,7 +387,7 @@ def parseconf(cns):
   return syntax
 
 def insertmenuitems(f, mname, current, prefix):
-  m = open(mname, 'rb')
+  m = _open_text(mname)
   while pc(controlstruct(m)) != '':
     l = readnoncomment(m)
     l = l.strip()
@@ -409,7 +475,7 @@ def doincludes(f, l):
   ir = 'includeraw{'
   i = 'include{'
   if l.startswith(ir):
-    nf = open(l[len(ir):-2], 'rb')
+    nf = _open_text(l[len(ir):-2])
     f.outf.write(nf.read())
     nf.close()
   elif l.startswith(i):
@@ -535,8 +601,8 @@ def replaceequations(b, f):
         # Check that the tools we need exist.
         (supported, message) = testeqsupport()
         if not supported:
-          print 'WARNING: equation support disabled.'
-          print message
+          print('WARNING: equation support disabled.')
+          print(message)
           f.eqsupport = False
           return b
 
@@ -652,9 +718,9 @@ def br(b, f, tableblock=False):
   for m in r.findall(b):
     repl = os.environ.get(m)
     if repl == None:
-      b = re.sub("!\$%s\$!" % m, 'FAILED_MATCH_' + m, b)
+      b = re.sub(r"!\$%s\$!" % m, 'FAILED_MATCH_' + m, b)
     else:
-      b = re.sub("!\$%s\$!" % m, repl, b)
+      b = re.sub(r"!\$%s\$!" % m, repl, b)
 
   # Deal with literal backspaces.
   if f.eqs and f.eqsupport:
@@ -823,7 +889,7 @@ def gethl(lang):
     d['special'] = ['cols', 'optvar', 'param', 'problem', 'norm2', 'norm1',
             'value', 'minimize', 'maximize', 'rows', 'rand',
             'randn', 'printval', 'matrix']
-    d['error'] = ['\w*Error',]
+    d['error'] = [r'\w*Error',]
     d['commentuntilend'] = '#'
     d['strings'] = True
   elif lang in ['c', 'c++', 'cpp']:
@@ -832,7 +898,7 @@ def gethl(lang):
             'clock_t', 'struct', 'long', 'extern', 'char']
     d['operator'] = ['#include.*', '#define', '@pyval{', '}@', '@pyif{',
              '@py{']
-    d['error'] = ['\w*Error',]
+    d['error'] = [r'\w*Error',]
     d['commentuntilend'] = ['//', '/*', ' * ', '*/']
   elif lang in ('rb', 'ruby'):
     d['statement'] = putbsbs(['while', 'until', 'unless', 'if', 'elsif',
@@ -841,7 +907,7 @@ def gethl(lang):
     d['operator'] = putbsbs(['and', 'not', 'or'])
     d['builtin'] = putbsbs(['true', 'false', 'require', 'warn'])
     d['special'] = putbsbs(['IO'])
-    d['error'] = putbsbs(['\w*Error',])
+    d['error'] = putbsbs([r'\w*Error',])
     d['commentuntilend'] = '#'
     d['strings'] = True
     d['strings'] = True
@@ -859,13 +925,13 @@ def gethl(lang):
     d['builtin'] = putbsbs(['gem', 'gcc', 'python', 'curl', 'wget', 'ssh',
                 'latex', 'find', 'sed', 'gs', 'grep', 'tee',
                 'gzip', 'killall', 'echo', 'touch',
-                'ifconfig', 'git', '(?<!\.)tar(?!\.)'])
+                'ifconfig', 'git', r'(?<!\.)tar(?!\.)'])
     d['commentuntilend'] = '#'
     d['strings'] = True
   elif lang == 'matlab':
     d['statement'] = putbsbs(['max', 'min', 'find', 'rand', 'cumsum', 'randn', 'help',
                      'error', 'if', 'end', 'for'])
-    d['operator'] = ['&gt;', 'ans =', '>>', '~', '\.\.\.']
+    d['operator'] = ['&gt;', 'ans =', '>>', '~', r'\.\.\.']
     d['builtin'] = putbsbs(['csolve'])
     d['commentuntilend'] = '%'
     d['strings'] = True
@@ -940,7 +1006,7 @@ def geneq(f, eq, dpi, wl, outname):
   eqdepths = {}
   if f.eqcache:
     try:
-      dc = open(os.path.join(f.eqdir, '.eqdepthcache'), 'rb')
+      dc = open(os.path.join(f.eqdir, '.eqdepthcache'), 'r', encoding=_DEFAULT_ENCODING)
       for l in dc:
         a = l.split()
         eqdepths[a[0]] = int(a[1])
@@ -949,22 +1015,22 @@ def geneq(f, eq, dpi, wl, outname):
       if os.path.exists(eqname) and eqname in eqdepths:
         return (eqdepths[eqname], eqname)
     except IOError:
-      print 'eqdepthcache read failed.'
+      print('eqdepthcache read failed.')
 
   # Open tex file.
   tempdir = tempfile.gettempdir()
   fd, texfile = tempfile.mkstemp('.tex', '', tempdir, True)
   basefile = texfile[:-4]
-  g = os.fdopen(fd, 'wb')
+  g = os.fdopen(fd, 'w', encoding=_DEFAULT_ENCODING)
 
-  preamble = '\documentclass{article}\n'
+  preamble = '\\documentclass{article}\n'
   for p in f.eqpackages:
-    preamble += '\usepackage{%s}\n' % p
+    preamble += '\\usepackage{%s}\n' % p
   for p in f.texlines:
     # Replace \{ and \} in p with { and }.
     # XXX hack.
     preamble += re.sub(r'\\(?=[{}])', '', p + '\n')
-  preamble += '\pagestyle{empty}\n\\begin{document}\n'
+  preamble += '\\pagestyle{empty}\n\\begin{document}\n'
   g.write(preamble)
   
   # Write the equation itself.
@@ -974,7 +1040,7 @@ def geneq(f, eq, dpi, wl, outname):
     g.write('$%s$' % eq)
 
   # Finish off the tex file.
-  g.write('\n\\newpage\n\end{document}')
+  g.write('\n\\newpage\n\\end{document}')
   g.close()
 
   exts = ['.tex', '.aux', '.dvi', '.log']
@@ -985,8 +1051,8 @@ def geneq(f, eq, dpi, wl, outname):
     p = Popen(latexcmd, shell=True, stdout=PIPE)
     rc = p.wait()
     if rc != 0:
-      for l in p.stdout.readlines():
-        print '  ' + l.rstrip()
+      for l in _decode_lines(p.stdout.readlines()):
+        print('  ' + l.rstrip())
       exts.remove('.tex')
       raise Exception('latex error')
 
@@ -996,9 +1062,9 @@ def geneq(f, eq, dpi, wl, outname):
     p = Popen(dvicmd, shell=True, stdout=PIPE, stderr=PIPE)
     rc = p.wait()
     if rc != 0:
-      print p.stderr.readlines()
+      print(_decode_lines(p.stderr.readlines()))
       raise Exception('dvipng error')
-    depth = int(p.stdout.readlines()[-1].split('=')[-1])
+    depth = int(_decode_lines(p.stdout.readlines())[-1].split('=')[-1])
   finally:
     # Clean up.
     for ext in exts:
@@ -1009,11 +1075,11 @@ def geneq(f, eq, dpi, wl, outname):
   # Update the cache if we're using it.
   if f.eqcache and eqname not in eqdepths:
     try:
-      dc = open(os.path.join(f.eqdir, '.eqdepthcache'), 'ab')
+      dc = open(os.path.join(f.eqdir, '.eqdepthcache'), 'a', encoding=_DEFAULT_ENCODING)
       dc.write(eqname + ' ' + str(depth) + '\n')
       dc.close()
     except IOError:
-      print 'eqdepthcache update failed.'
+      print('eqdepthcache update failed.')
   return (depth, eqname)
 
 def dashlist(f, ordered=False):
@@ -1124,7 +1190,7 @@ def codeblock(f, g):
         out(f.outf, l)
       elif g[1] == 'jemdoc':
         # doing this more nicely needs python 2.5.
-        for x in ('#', '~', '>>>', '\~', '{'):
+        for x in ('#', '~', '>>>', '\\~', '{'):
           if str(l).lstrip().startswith(x):
             out(f.outf, '</tt><pre class="tthl">')
             out(f.outf, l + '</pre><tt class="tthl">')
@@ -1153,10 +1219,12 @@ def codeblock(f, g):
   if raw:
     return
   elif ext_prog:
-    print 'filtering through %s...' % ext_prog
+    print('filtering through %s...' % ext_prog)
 
     output,_ = Popen(ext_prog, shell=True, stdin=PIPE,
-                     stdout=PIPE).communicate(buff)
+                     stdout=PIPE).communicate(buff.encode(_DEFAULT_ENCODING) if isinstance(buff, str) else buff)
+    if isinstance(output, bytes):
+      output = output.decode(_DEFAULT_ENCODING, errors='replace')
     out(f.outf, output)
   else:
     if g[1] == 'jemdoc':
@@ -1349,13 +1417,13 @@ def procfile(f):
       # Quickly pull out the equation here:
       # Check we don't already have the terminating character in a whole-line
       # equation without linebreaks, eg \( Ax=b \):
-      if not s.strip().endswith('\)'):
+      if not s.strip().endswith('\\)'):
         while True:
           l = nl(f, codemode=True)
           if not l:
             break
           s += l
-          if l.strip() == '\)':
+          if l.strip() == '\\)':
             break
       out(f.outf, br(s.strip(), f))
 
@@ -1506,7 +1574,7 @@ def main():
     showhelp()
     raise SystemExit
   if sys.argv[1] == '--show-config':
-    print standardconf()
+    print(standardconf())
     raise SystemExit
   if sys.argv[1] == '--version':
     info()
@@ -1556,8 +1624,8 @@ def main():
     else:
       thisout = outname
 
-    infile = open(inname, 'rUb')
-    outfile = open(thisout, 'w')
+    infile = _open_text(inname)
+    outfile = open(thisout, 'w', encoding=_DEFAULT_ENCODING)
 
     f = controlstruct(infile, outfile, conf, inname)
     procfile(f)
