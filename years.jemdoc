@@ -6,18 +6,18 @@
 == Preprint
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint.
-. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
-W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
 . [https://arxiv.org/abs/2601.09076 Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning]\n
 Z. Kou, Z. Chen, J. Yang, and C. Shen, preprint.
 . [https://arxiv.org/abs/2503.16594 Decision Feedback In-Context Learning for Wireless Symbol Detection]\n
 L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
 
 == 2026
-. Optimizing Utility-Privacy Tradeoff in Federated Learning over Fading Channels\n
+. [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
+W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, /Transactions on Machine Learning Research (TMLR)/, June 2026.
+. [https://ieeexplore.ieee.org/document/11575631 Optimizing Utility-Privacy Tradeoff in Federated Learning over Fading Channels]\n
 Y. Mu, X. Wei, Y. C. Eldar, and C. Shen, /IEEE Transactions on Machine Learning in Communications and Networking/, accepted.
 . [https://openreview.net/forum?id=1t6sEhdLxf Adapting to Any Bit-Width: Channel-Wise Mixed-Precision Quantization for LLMs]\n
-Z. Chen, B. Xie, J. Li, and C. Shen, /Transactions on Machine Learning Research (TMLR)/, June 2026
+Z. Chen, B. Xie, J. Li, and C. Shen, /Transactions on Machine Learning Research (TMLR)/, June 2026.
 . [https://arxiv.org/abs/2605.06977 $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses]\n
 D. Wu, C. Shi, J. Yang, and C. Shen, /Forty-third International Conference on Machine Learning (ICML)/, Jul. 2026.
 . SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection\n
@@ -33,13 +33,13 @@ W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, /The 28th Internation
 . [https://openreview.net/pdf?id=M0n3gtwHNg Efficient Multi-objective Prompt Optimization via Pure-exploration Bandits]\n
 D. Li, C. Shi, W. Ou, C. Shen, and J. Yang, /The Fourteenth International Conference on Learning Representations (ICLR)/, Apr. 2026
 . [https://arxiv.org/abs/2306.08280 Differentially Private Wireless Federated Learning Using Orthogonal Sequences]\n
-X. Wei, T. Wang, R. Huang, C. Shen, J. Yang, and H. V. Poor, /Transactions on Information Theory/, accepted.
+X. Wei, T. Wang, R. Huang, C. Shen, J. Yang, and H. V. Poor, /Transactions on Information Theory/, Volume: 72, Issue: 5, Page(s): 3175 - 3194, May 2026.
 . [https://arxiv.org/abs/2405.11034 Safety in Graph Machine Learning: Threats and Safeguards]\n
-S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, /IEEE Transactions on Knowledge and Data Engineering/, accepted.
+S. Wang, Y. Dong, B. Zhang, Z. Chen, X. Fu, Y. He, C. Shen, C. Zhang, N. V. Chawla, and J. Li, /IEEE Transactions on Knowledge and Data Engineering/, Volume: 38, Issue: 4, Page(s): 2408 - 2428, April 2026.
 . [https://ieeexplore.ieee.org/abstract/document/11271547 Neighborhood and Global Perturbations Supported Sharpness-aware Minimization in Federated Learning: From Local Tweaks To Global Awareness]\n
-B. Li, Z. Peng, Y. Li, Z. Li, S. Chen, C. Shen, and T. Quek, /IEEE Transactions on Network Science and Engineering/, accepted.
+B. Li, Z. Peng, Y. Li, Z. Li, S. Chen, C. Shen, and T. Quek, /IEEE Transactions on Network Science and Engineering/, Volume: 13, Page(s): 5000 - 5017, 2026.
 . [https://ieeexplore.ieee.org/abstract/document/11265807 A Radical Heavy-Ball Method for Gradient Acceleration in Communication-Efficient Mobile Federated Learning]\n
-B. Li, Z. Li, Y. Li, M. Xu, S. Chen, C. Shen, and T. Quek, /IEEE Transactions on Mobile Computing/, accpeted.
+B. Li, Z. Li, Y. Li, M. Xu, S. Chen, C. Shen, and T. Quek, /IEEE Transactions on Mobile Computing/, Volume: 25, Issue: 5, Page(s): 6429 - 6442, May 2026.
 
 == 2025
 . [https://arxiv.org/abs/2510.24700 Greedy Sampling Is Provably Efficient For RLHF]\n
