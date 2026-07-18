@@ -4,6 +4,8 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == Preprint
+. [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
+Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint.
 . [https://arxiv.org/abs/2601.09076 Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning]\n
@@ -14,8 +16,10 @@ L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
 == 2026
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
 W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, /Transactions on Machine Learning Research (TMLR)/, June 2026.
+. [https://dl.acm.org/doi/abs/10.1145/3820356.3820361 A Survey of Scaling in Large Language Model Reasoning]\n
+Z. Chen, S. Wang, Z. Tan, X. Fu, Z. Lei, P. Wang, H. Liu, C. Shen, and J. Li, /ACM SIGKDD Explorations Newsletter/, Volume 28, Issue 1, Pages 63 - 80, June 2026.
 . [https://ieeexplore.ieee.org/document/11575631 Optimizing Utility-Privacy Tradeoff in Federated Learning over Fading Channels]\n
-Y. Mu, X. Wei, Y. C. Eldar, and C. Shen, /IEEE Transactions on Machine Learning in Communications and Networking/, accepted.
+Y. Mu, X. Wei, Y. C. Eldar, and C. Shen, /IEEE Transactions on Machine Learning in Communications and Networking/, Volume: 4, June 2026.
 . [https://openreview.net/forum?id=1t6sEhdLxf Adapting to Any Bit-Width: Channel-Wise Mixed-Precision Quantization for LLMs]\n
 Z. Chen, B. Xie, J. Li, and C. Shen, /Transactions on Machine Learning Research (TMLR)/, June 2026.
 . [https://arxiv.org/abs/2605.06977 $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses]\n
@@ -26,7 +30,7 @@ Z. Chen, C. Shi, S. Wang, J. Li, and C. Shen, /Forty-third International Confere
 Z. Kou, Z. Chen, J. Yang, and C. Shen, /International Symposium on Information Theory (ISIT)/, Jul. 2026.
 . [https://arxiv.org/abs/2603.08832 HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings]\n
 X. Li, F. Gao, X. Wei, T. Wang, C. Shen, J. Yang, SIGMOD International Conference on Management of Data, May 2026.
-. Robust Pathloss Radio Map Prediction via Physics-Informed Transformer\n
+. [https://ieeexplore.ieee.org/document/11571154 Robust Pathloss Radio Map Prediction via Physics-Informed Transformer]\n
 Z. Liang and C. Shen, /IEEE DySPAN 2026/, May 2026.
 . [https://arxiv.org/abs/2506.01897 MLorc: Momentum Low-rank Compression for Large Language Model Adaptation]\n
 W. Shen, Y. Zhang, M. Huang, M. Xu, J. Zhang, and C. Shen, /The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)/, May 2026.

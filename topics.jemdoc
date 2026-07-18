@@ -4,6 +4,8 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML 
+. [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
+Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint.
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
@@ -101,7 +103,7 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 
 == ML for Wireless
-. Robust Pathloss Radio Map Prediction via Physics-Informed Transformer\n
+. [https://ieeexplore.ieee.org/document/11571154 Robust Pathloss Radio Map Prediction via Physics-Informed Transformer]\n
 Z. Liang and C. Shen, /IEEE DySPAN 2026/, May 2026.
 . [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
 L. Fan, P. Wang, J. Yang, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2025.
