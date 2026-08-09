@@ -103,6 +103,10 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 
 
 == ML for Wireless
+. ICL-Rx: A Physics-Informed MIMO-OFDM Receiver with in-Context Learning\n
+Z. Kou and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
+. SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation\n
+S. Dong, B. Lu, M. Kienlen, J. N. Laneman, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
 . [https://ieeexplore.ieee.org/document/11571154 Robust Pathloss Radio Map Prediction via Physics-Informed Transformer]\n
 Z. Liang and C. Shen, /IEEE DySPAN 2026/, May 2026.
 . [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n

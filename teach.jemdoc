@@ -1,10 +1,12 @@
 # jemdoc: menu{MENU}{teach.html}, notime
 = Teaching
 
-== Spring 2026: ECE 4784/6784: Machine Learning for Wireless Communications
+== Fall 2026: ECE 6711: Probability and Stochastic Processes
 - Course website: [https://canvas.its.virginia.edu/ Canvas]
-- Schedule: MoWe 9:30am -- 10:45am, Location: Rice Hall 340
-- Office hours: Mo: 11:00am -- 12:00pm at Thornton E-317, or by appointment
+- Schedule: MoWe 9:30am -- 10:45am, Location: Thornton Hall D115
+- TA: [https://kerzb.github.io/ *Zhoubin Kou*]
+- TA office hours:  Mo: 4:00pm -- 5:00pm at Thornton C-311 conference room
+#- Office hours: Mo: 11:00am -- 12:00pm at Thornton E-317, or by appointment
 #- [SyllabusFall2025.pdf Syllabus]
 
 == Previous Courses
@@ -13,7 +15,7 @@
 - Fall 2020, Fall 2024
 
 === ECE 4784/6784: Machine Learning for Wireless Communications
-- Spring 2020, Spring 2021, Spring 2022, Spring 2024, Spring 2025
+- Spring 2020, Spring 2021, Spring 2022, Spring 2024, Spring 2025, Spring 2026
 
 === ECE 6711: Probability and Stochastic Processes
 - Fall 2025

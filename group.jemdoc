@@ -3,16 +3,16 @@
 
 == PhD Students
 
-~~~
-{}{img_left}{Li.jpg}{Picture of Li Fan}{114}{}{}
-*Li Fan*\n
-Ph.D. Student (Fall 2021 - current)\n
-#B.S., University of Science and Technology of China (USTC)\n
-~~~
+#~~~
+#{}{img_left}{Li.jpg}{Picture of Li Fan}{114}{}{}
+#*Li Fan*\n
+#Ph.D. Student (Fall 2021 - current)\n
+##B.S., University of Science and Technology of China (USTC)\n
+#~~~
 
 ~~~
 {}{img_left}{wei.jpg}{Picture of Wei Shen}{114}{}{}
-*Wei Shen*\n
+[https://scholar.google.com/citations?user=pE5NFusAAAAJ&hl=en *Wei Shen*]\n
 Ph.D. Student (Fall 2022 - current)\n
 #B.S., University of Science and Technology of China (USTC)\n
 ~~~
@@ -30,12 +30,6 @@ ECE Department Louis T Rader Graduate Research Award in 2026\n
 ~~~
 
 ~~~
-{}{img_left}{di.JPG}{Picture of Di Wu}{114}{}{}
-*Di Wu*\n
-Ph.D. Student (Fall 2024 - current)\n
-~~~
-
-~~~
 {}{img_left}{zihao.jpeg}{Picture of Zihao Liang}{114}{}{}
 *Zihao Liang*\n
 Ph.D. Student (Fall 2024 - current)\n
@@ -43,7 +37,7 @@ Ph.D. Student (Fall 2024 - current)\n
 
 ~~~
 {}{img_left}{songwei.jpg}{Picture of Di Wu}{114}{}{}
-*Songwei Dong*\n
+[https://swdong01.github.io/ *Songwei Dong*]\n
 Ph.D. Student (Fall 2024 - current)\n
 ~~~
 
@@ -59,18 +53,24 @@ Ph.D. Student (Fall 2022 - current)\n
 Ph.D. Student (Spring 2025 - current)\n
 ~~~
 
+~~~
+{}{img_left}{chenye.jpeg}{Picture of Chengye Wang}{114}{}{}
+[https://chenyewang-ee.github.io/ *Chenye Wang*]\n
+Ph.D. Student (Fall 2026 - current)\n 
+~~~
+
 == Undergraduate Students
 
 ~~~
 {}{img_left}{Diana.jpg}{Picture of Danya}{114}{}{}
-*Diana Lin*\n
+[https://www.dianalin.me/ *Diana Lin*]\n
 Undergraduate student in CpE of UVA (Spring 2025 - current)\n
 ~~~
 
-~~~
-*Lisa Berlizova*\n
-Undergraduate student in EE of UVA (Summer 2025 - current)\n
-~~~
+#~~~
+#*Lisa Berlizova*\n
+#Undergraduate student in EE of UVA (Summer 2025 - current)\n
+#~~~
 
 
 #== Master Researcher
@@ -130,7 +130,7 @@ Google
 
 ~~~
 {}{img_left}{Yujia2.jpg}{Picture of Yujia Mu}{114}{}{}
-*Yujia Mu*\n
+[https://www.linkedin.com/in/yujiamu/ *Yujia Mu*]\n
 Ph.D. (Fall 2020 - Fall 2025)\n
 #B.S., Tsinghua University\n
 #M.S., UVA
@@ -140,6 +140,12 @@ TikTok
 
 #{{<font color = DarkOrange size=+1.0>}} Selected Accomplishments: {{</font>}}\n
 #ECE Department Malathi Veeraraghavan Legacy Fellowship in 2022\n
+~~~
+
+~~~
+{}{img_left}{di.JPG}{Picture of Di Wu}{114}{}{}
+*Di Wu*\n
+M.S. (Fall 2024 - Summer 2026)\n
 ~~~
 
 == Visiting Students
