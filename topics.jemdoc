@@ -4,12 +4,12 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML 
-. [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
-Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint.
+. [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
+Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint. /The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)/, Main Conference, Oct. 2026.
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
-W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, preprint.
+W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, /Transactions on Machine Learning Research (TMLR)/, June 2026.
 . [https://arxiv.org/abs/2605.06977 $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses]\n
 D. Wu, C. Shi, J. Yang, and C. Shen, /Forty-third International Conference on Machine Learning (ICML)/, Jul. 2026.
 . SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection\n

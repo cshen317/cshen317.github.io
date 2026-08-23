@@ -4,8 +4,6 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == Preprint
-. [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
-Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint.
 . [https://arxiv.org/abs/2601.09076 Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning]\n
@@ -14,6 +12,8 @@ Z. Kou, Z. Chen, J. Yang, and C. Shen, preprint.
 L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
 
 == 2026
+. [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
+Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint. /The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)/, Main Conference, Oct. 2026.
 . ICL-Rx: A Physics-Informed MIMO-OFDM Receiver with in-Context Learning\n
 Z. Kou and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
 . SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation\n
