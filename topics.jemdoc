@@ -4,17 +4,19 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML 
+. Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation\n
+P. Wang, Z. Chu, C. Shi, M. Poloczek, C. Shen, and J. Yang, /Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2026.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
-S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint.
+S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint. A preliminary version will appear in /NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents/.
 . [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
-Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, preprint. /The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)/, Main Conference, Oct. 2026.
+Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, /The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)/, Main Conference, Oct. 2026.
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
 W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, /Transactions on Machine Learning Research (TMLR)/, June 2026.
 . [https://arxiv.org/abs/2605.06977 $f$-Divergence Regularized RLHF: Two Tales of Sampling and Unified Analyses]\n
 D. Wu, C. Shi, J. Yang, and C. Shen, /Forty-third International Conference on Machine Learning (ICML)/, Jul. 2026.
-. SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection\n
+. [https://openreview.net/forum?id=R8hivF3AkV&noteId=lSE0xfmo8X SMILE: Extended Deep Submodular Function-Based Instruction and In-context Learning Demonstration Selection]\n
 Z. Chen, C. Shi, S. Wang, J. Li, and C. Shen, /Forty-third International Conference on Machine Learning (ICML)/, Jul. 2026.
-. Hybrid Zeroth- and First-Order Split Federated Learning with Dimension-Free Convergence\n
+. [https://ieeexplore.ieee.org/abstract/document/11653735/ Hybrid Zeroth- and First-Order Split Federated Learning with Dimension-Free Convergence]\n
 Z. Kou, Z. Chen, J. Yang, and C. Shen, /International Symposium on Information Theory (ISIT)/, Jul. 2026.
 . [https://arxiv.org/abs/2603.08832 HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings]\n
 X. Li, F. Gao, X. Wei, T. Wang, C. Shen, J. Yang, /SIGMOD International Conference on Management of Data/, May 2026.
@@ -105,7 +107,7 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 == ML for Wireless
 . ICL-Rx: A Physics-Informed MIMO-OFDM Receiver with in-Context Learning\n
 Z. Kou and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
-. SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation\n
+. [https://arxiv.org/abs/2609.00427 SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation]\n
 S. Dong, B. Lu, M. Kienlen, J. N. Laneman, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
 . [https://ieeexplore.ieee.org/document/11571154 Robust Pathloss Radio Map Prediction via Physics-Informed Transformer]\n
 Z. Liang and C. Shen, /IEEE DySPAN 2026/, May 2026.
