@@ -10,16 +10,18 @@ S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint. A preliminary v
 L. Fan, W. Shen, J. Yang, and C. Shen, preprint.
 
 == 2026
-. Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation\n
+. [https://openreview.net/pdf/e07c79fa1c910817cf9d3a6c1b5744a6a259ece5.pdf Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation]\n
 P. Wang, Z. Chu, C. Shi, M. Poloczek, C. Shen, and J. Yang, /Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2026.
 . [https://arxiv.org/abs/2601.09076 Lean Clients, Full Accuracy: Hybrid Zeroth-and First-Order Split Federated Learning]\n
-Z. Kou, Z. Chen, J. Yang, and C. Shen, /IEEE Journal on Selected Areas in Communications/, accepted.
+Z. Kou, Z. Chen, J. Yang, and C. Shen, /IEEE Journal on Selected Areas in Communications/, vol. 44, pp. 5840-5855, Oct. 2026.
 . [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
 Z. Chen,  S. Dong, C. Shi, P. Wang, S. Wang, C. Shen, and J. Li, /The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)/, Main Conference, Oct. 2026.
 . ICL-Rx: A Physics-Informed MIMO-OFDM Receiver with in-Context Learning\n
 Z. Kou and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
 . [https://arxiv.org/abs/2609.00427 SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation]\n
 S. Dong, B. Lu, M. Kienlen, J. N. Laneman, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
+. [https://ieeexplore.ieee.org/abstract/document/11734037 Radio Environment Maps for Context-Aware Next-Generation Communications]\n
+C. Crespo, Z. Liang, C. Shen, and S. Venkatakrishnan, /2026 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/USNC-URSI)/, July 2026.
 . [https://arxiv.org/abs/2505.23737 On the convergence analysis of MUON]\n
 W. Shen, R. Huang, M. Huang, C. Shen, and J. Zhang, /Transactions on Machine Learning Research (TMLR)/, June 2026.
 . [https://dl.acm.org/doi/abs/10.1145/3820356.3820361 A Survey of Scaling in Large Language Model Reasoning]\n

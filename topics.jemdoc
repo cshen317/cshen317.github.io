@@ -4,7 +4,7 @@
 [https://scholar.google.com/citations?hl=en&sortby=pubdate&user=70LBhKcAAAAJ Google Scholar Profile]
 
 == AI / ML 
-. Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation\n
+. [https://openreview.net/pdf/e07c79fa1c910817cf9d3a6c1b5744a6a259ece5.pdf Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation]\n
 P. Wang, Z. Chu, C. Shi, M. Poloczek, C. Shen, and J. Yang, /Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2026.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint. A preliminary version will appear in /NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents/.
@@ -109,6 +109,8 @@ Z. Wang, R. Zhou, and C. Shen, /Proceedings of the Twenty-First International Co
 Z. Kou and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
 . [https://arxiv.org/abs/2609.00427 SpecMind: Enabling Spectrum Intelligence via Multi-Agent Hybrid Retrieval-Augmented Generation]\n
 S. Dong, B. Lu, M. Kienlen, J. N. Laneman, and C. Shen, /IEEE Global Communications Conference (Globecom)/, Dec. 2026.
+. [https://ieeexplore.ieee.org/abstract/document/11734037 Radio Environment Maps for Context-Aware Next-Generation Communications]\n
+C. Crespo, Z. Liang, C. Shen, and S. Venkatakrishnan, /2026 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/USNC-URSI)/, July 2026.
 . [https://ieeexplore.ieee.org/document/11571154 Robust Pathloss Radio Map Prediction via Physics-Informed Transformer]\n
 Z. Liang and C. Shen, /IEEE DySPAN 2026/, May 2026.
 . [https://arxiv.org/abs/2506.21093 Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection]\n
