@@ -6,6 +6,8 @@
 == AI / ML 
 . [https://openreview.net/pdf/e07c79fa1c910817cf9d3a6c1b5744a6a259ece5.pdf Skill-Coupled Policy Optimization with Calibrated Group-Wise Advantage Estimation]\n
 P. Wang, Z. Chu, C. Shi, M. Poloczek, C. Shen, and J. Yang, /Annual Conference on Neural Information Processing Systems (NeurIPS)/, Dec. 2026.
+. [https://openreview.net/forum?id=wlf1aaFD6i Training-Free Speedup for Retrieval-Augmented Generation with Staged Parallel Speculation]\n
+S. Dong, Z. Chen, P. Wang, and C. Shen, /Transactions on Machine Learning Research (TMLR)/, Nov. 2026.
 . [https://arxiv.org/abs/2605.15384 Is One Score Enough? Rethinking the Evaluation of Sequentially Evolving LLM Memory]\n 
 S. Dong, Z. Chen, C. Shi, P. Wang, J. Li, and C. Shen, preprint. A preliminary version will appear in /NeurIPS 2026 Workshop on Towards Test-Time Continual Learning Agents/.
 . [https://arxiv.org/abs/2606.31121 The Past Is Prologue: A Plug-in Controller for Selective Updates in Sequentially Evolving LLM Memory]\n
